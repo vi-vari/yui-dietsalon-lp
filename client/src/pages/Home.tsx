@@ -36,25 +36,25 @@ export default function Home() {
             </div>
           <div data-layer="Header" data-node-id="316-846" className="Header w-[1920px] h-[120px] left-0 top-0 absolute bg-[#fdfdfd] shadow-[0px_1px_4px_0px_rgba(0,0,0,0.12)]">
               <div data-layer="Background" data-node-id="316-847" className="Background w-[1920px] h-2 left-0 top-0 absolute bg-[#ff2678]" />
-              <img data-layer="Heading 1 → Link → ビオ整骨院" data-node-id="316-848" className="Heading1Link w-[378.83px] h-20 left-[560px] top-[24px] absolute" src="/manus-storage/316-848_75779179.webp" />
+              <img data-layer="Heading 1 → Link → ビオ整骨院" data-node-id="316-848" className="Heading1Link w-[378.83px] h-20 left-[560px] top-[24px] absolute" src="/assets/316-848.webp" />
               <div data-layer="Header" data-node-id="316-1213" className="Header w-[1920px] h-[120px] left-0 top-0 absolute bg-[#fdfdfd] shadow-[0px_1px_4px_0px_rgba(0,0,0,0.12)]">
                 <div data-layer="Background" data-node-id="316-1214" className="Background w-[1920px] h-2 left-0 top-0 absolute bg-[#ff2678]" />
                 <div data-layer="Frame 4" data-node-id="316-1215" className="Frame4 w-[387px] h-20 left-[560px] top-[24px] absolute">
-                  <img data-layer="Group 2 1" data-node-id="316-1216" className="Group21 w-[387px] h-20 left-0 top-0 absolute" src="/manus-storage/316-1216_2f29ffdc.webp" />
+                  <img data-layer="Group 2 1" data-node-id="316-1216" className="Group21 w-[387px] h-20 left-0 top-0 absolute" src="/assets/316-1216.webp" />
                 </div>
               </div>
             </div>
           <div data-layer="Main" data-node-id="316-7" className="Main w-[1920px] h-[21641px] left-0 top-[120px] absolute">
-            <img data-layer="Figure → %E8%A5%BF%E6%98%A5%E9%A7%85%E3%81%8B%E3%82%89%E8%BB%8A3%E5%88%86-4.9.webp" data-node-id="316-8" className="FigureE8A5BfE698A5E9A785E3818bE38289E8Bb8a3E5888649Webp w-[768px] h-[642.84px] left-[576.00px] top-0 absolute" src="/manus-storage/316-8_f3b1e9bc.webp" />
-            <img data-layer="Figure → BA-6.webp" data-node-id="316-9" className="FigureBa6Webp w-[768px] h-[768px] left-[576.00px] top-[642.84px] absolute" src="/manus-storage/316-9_dc04a463.webp" />
+            <img data-layer="Figure → %E8%A5%BF%E6%98%A5%E9%A7%85%E3%81%8B%E3%82%89%E8%BB%8A3%E5%88%86-4.9.webp" data-node-id="316-8" className="FigureE8A5BfE698A5E9A785E3818bE38289E8Bb8a3E5888649Webp w-[768px] h-[642.84px] left-[576.00px] top-0 absolute" src="/assets/316-8.webp" />
+            <img data-layer="Figure → BA-6.webp" data-node-id="316-9" className="FigureBa6Webp w-[768px] h-[768px] left-[576.00px] top-[642.84px] absolute" src="/assets/316-9.webp" />
             <div data-layer="※効果を保証するものではございません。" data-node-id="316-10" className="left-[1112.34px] top-[1450.84px] absolute text-right justify-center text-[#333333] text-xs font-light font-['Hiragino_Kaku_Gothic_ProN']">※効果を保証するものではございません。</div>
-            <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF01-2.webp" data-node-id="316-11" className="FigureE3818aE682A9E381Bf012Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[2829.72px] absolute" src="/manus-storage/316-11_bdf9d7d2.webp" />
-            <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF02-2.webp" data-node-id="316-12" className="FigureE3818aE682A9E381Bf022Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[3595.80px] absolute" src="/manus-storage/316-12_64f7504a.webp" />
-            <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF03.webp" data-node-id="316-13" className="FigureE3818aE682A9E381Bf03Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[4361.88px] absolute" src="/manus-storage/316-13_542fa19a.webp" />
-            <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF04.webp" data-node-id="316-14" className="FigureE3818aE682A9E381Bf04Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[5127.95px] absolute" src="/manus-storage/316-14_fbb70225.webp" />
-            <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="316-15" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[9000.55px] absolute" src="/manus-storage/316-15_0fda2e6b.webp" />
+            <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF01-2.webp" data-node-id="316-11" className="FigureE3818aE682A9E381Bf012Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[2829.72px] absolute" src="/assets/316-11.webp" />
+            <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF02-2.webp" data-node-id="316-12" className="FigureE3818aE682A9E381Bf022Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[3595.80px] absolute" src="/assets/316-12.webp" />
+            <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF03.webp" data-node-id="316-13" className="FigureE3818aE682A9E381Bf03Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[4361.88px] absolute" src="/assets/316-13.webp" />
+            <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF04.webp" data-node-id="316-14" className="FigureE3818aE682A9E381Bf04Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[5127.95px] absolute" src="/assets/316-14.webp" />
+            <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="316-15" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[9000.55px] absolute" src="/assets/316-15.webp" />
             <div data-layer="Border" data-node-id="316-19" className="Border w-[768px] h-[1105.69px] left-[3164.00px] top-[-2360px] absolute outline outline-1 outline-offset-[-1px] outline-[#ff2678]">
-                <img data-layer="Figure → %E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-575-1024x654.webp" data-node-id="316-20" className="FigureE382B0E383AbE383BcE383975751024x654Webp w-[718px] h-[458.56px] left-[25px] top-[25px] absolute" src="/manus-storage/316-20_fb544c2d.webp" />
+                <img data-layer="Figure → %E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-575-1024x654.webp" data-node-id="316-20" className="FigureE382B0E383AbE383BcE383975751024x654Webp w-[718px] h-[458.56px] left-[25px] top-[25px] absolute" src="/assets/316-20.webp" />
                 <div data-layer="通常10,000円" data-node-id="316-21" className="10000 left-[268.39px] top-[522.56px] absolute text-center justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">通常10,000円　</div>
                 <div data-layer="Background" data-node-id="316-22" className="Background w-[90.03px] h-8 left-[409.56px] top-[517.56px] absolute bg-[#fe2577] rounded-[1px]">
                   <div data-layer="Strong → 90%OFF" data-node-id="316-23" className="Strong90Off left-[5px] top-[5px] absolute text-center justify-center text-white text-[19.10px] font-light font-['Hiragino_Kaku_Gothic_ProN']">90%OFF</div>
@@ -106,11 +106,11 @@ export default function Home() {
                 </div>
                 <div data-layer="Link" data-node-id="316-55" className="Link w-[574.39px] h-14 left-[96.80px] top-[821.50px] absolute bg-[#62d847] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(74,162,53,1.00)]">
                   <div data-layer="今すぐLINEで予約する" data-node-id="316-56" className="Line left-[186.54px] top-[16px] absolute text-center justify-center text-white text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">今すぐLINEで予約する</div>
-                  <img data-layer="SVG" data-node-id="316-57" className="Svg w-[19.36px] h-[19.36px] left-[372.87px] top-[18.31px] absolute overflow-hidden" src="/manus-storage/316-57_7d66f1ff.svg" />
+                  <img data-layer="SVG" data-node-id="316-57" className="Svg w-[19.36px] h-[19.36px] left-[372.87px] top-[18.31px] absolute overflow-hidden" src="/assets/316-57.svg" />
                 </div>
                 <div data-layer="Link" data-node-id="316-62" className="Link w-[574.39px] h-14 left-[96.80px] top-[893.50px] absolute bg-[#e52b79] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(172,32,91,1.00)]">
                   <div data-layer="ホットペッパーで予約する" data-node-id="316-63" className="left-[172.01px] top-[16px] absolute text-center justify-center text-white text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパーで予約する</div>
-                  <img data-layer="SVG" data-node-id="316-64" className="Svg w-[19.36px] h-[19.36px] left-[387.39px] top-[18.31px] absolute overflow-hidden" src="/manus-storage/316-64_0f66216b.svg" />
+                  <img data-layer="SVG" data-node-id="316-64" className="Svg w-[19.36px] h-[19.36px] left-[387.39px] top-[18.31px] absolute overflow-hidden" src="/assets/316-64.svg" />
                 </div>
               </div>
             <div data-layer="Background" data-node-id="316-69" className="Background w-[768px] h-[54.39px] left-[576.00px] top-[1501px] absolute bg-[#ff2678]">
@@ -124,7 +124,7 @@ export default function Home() {
                   <div data-layer="にお住まいの８キロ以上痩せたい方へ" data-node-id="316-75" className="left-[858.42px] top-[3px] absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">にお住まいの８キロ以上痩せたい方へ</div>
                   <div data-layer="このようなこと悩んでいませんか？" data-node-id="316-76" className="left-[795.11px] top-[31px] absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">このようなこと悩んでいませんか？</div>
                 </div>
-                <img data-layer="Background 1" data-node-id="319-1133" className="Background1 w-[1920px] h-[120px] left-0 top-[-5.72px] absolute" src="/manus-storage/319-1133_5bc578e5.webp" />
+                <img data-layer="Background 1" data-node-id="319-1133" className="Background1 w-[1920px] h-[120px] left-0 top-[-5.72px] absolute" src="/assets/319-1133.webp" />
               </div>
             <div data-layer="Background" data-node-id="316-77" className="Background w-[1920px] h-[284.14px] left-[0.00px] top-[6188.41px] absolute bg-[#f7f6eb]">
                 <div data-layer="(効果には個人差があります)" data-node-id="316-78" className="left-[1228.52px] top-[234.34px] absolute text-right justify-center text-[#333333] text-[9px] font-light font-['Hiragino_Kaku_Gothic_ProN']">(効果には個人差があります)</div>
@@ -152,9 +152,9 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-            <img data-layer="Figure → lp_009-%E2%80%93-2.jpg" data-node-id="316-87" className="FigureLp009E280932Jpg w-[800px] h-[800px] left-[560.00px] top-[6504.55px] absolute" src="/manus-storage/316-87_b792bf7b.webp" />
-            <img data-layer="Figure → lp_004-%E2%80%93-2.jpg" data-node-id="316-88" className="FigureLp004E280932Jpg w-[800px] h-[800px] left-[560.00px] top-[7320.55px] absolute" src="/manus-storage/316-88_6526fef8.webp" />
-            <img data-layer="Figure → lp_002-%E2%80%93-3.jpg" data-node-id="316-89" className="FigureLp002E280933Jpg w-[800px] h-[800px] left-[560.00px] top-[8136.55px] absolute" src="/manus-storage/316-89_b53b9981.webp" />
+            <img data-layer="Figure → lp_009-%E2%80%93-2.jpg" data-node-id="316-87" className="FigureLp009E280932Jpg w-[800px] h-[800px] left-[560.00px] top-[6504.55px] absolute" src="/assets/316-87.webp" />
+            <img data-layer="Figure → lp_004-%E2%80%93-2.jpg" data-node-id="316-88" className="FigureLp004E280932Jpg w-[800px] h-[800px] left-[560.00px] top-[7320.55px] absolute" src="/assets/316-88.webp" />
+            <img data-layer="Figure → lp_002-%E2%80%93-3.jpg" data-node-id="316-89" className="FigureLp002E280933Jpg w-[800px] h-[800px] left-[560.00px] top-[8136.55px] absolute" src="/assets/316-89.webp" />
             <div data-layer="Background" data-node-id="316-90" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[9659.55px] absolute bg-[#ff86b4]">
                 <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="316-91" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">予約方法はこちら</div>
                 <div data-layer="List" data-node-id="316-92" className="List w-[768px] h-[65px] left-[576px] top-[102.39px] absolute">
@@ -169,27 +169,27 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="316-99" className="Container w-[768px] h-[696.84px] left-[576px] top-[207.39px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="316-100" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-101" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/manus-storage/316-101_dfc0ba72.webp" />
+                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-101" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/316-101.webp" />
                   <div data-layer="Background" data-node-id="316-102" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                     <div data-layer="Strong" data-node-id="316-103" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
                       <div data-layer="ホットペッパー予約はこちらから" data-node-id="316-104" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパー予約はこちらから</div>
                       <div data-layer="Mask Group" data-node-id="316-105" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                         <div data-layer="Mask" data-node-id="316-106" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                           <div data-layer="image" data-node-id="316-107" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
-                            <img data-layer="Vector" data-node-id="316-108" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/manus-storage/316-108_23aa22dc.svg" />
+                            <img data-layer="Vector" data-node-id="316-108" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/assets/316-108.svg" />
                           </div>
                         </div>
                         <div data-layer="Background" data-node-id="316-109" className="Background w-5 h-9 left-0 top-0 absolute bg-black" />
                       </div>
                     </div>
                   </div>
-                  <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="316-110" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute" src="/manus-storage/316-110_9f4ce7a4.webp" />
+                  <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="316-110" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute" src="/assets/316-110.webp" />
                   <div data-layer="Heading 2" data-node-id="316-111" className="Heading2 w-[320.72px] h-[26px] left-[223.64px] top-[33px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                     <div data-layer="LINE簡単予約はこちらをタップ" data-node-id="316-112" className="Line left-[2px] top-[2px] absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">LINE簡単予約はこちらをタップ</div>
                     <div data-layer="Mask Group" data-node-id="316-113" className="MaskGroup w-[20.20px] h-7 left-[296.52px] top-[-1px] absolute">
                       <div data-layer="Mask" data-node-id="316-114" className="Mask w-[20.20px] h-7 left-0 top-0 absolute overflow-hidden">
                         <div data-layer="image" data-node-id="316-115" className="Image w-[20.20px] h-[20.20px] left-0 top-[3.90px] absolute overflow-hidden">
-                          <img data-layer="Vector" data-node-id="316-116" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/manus-storage/316-116_c8b7a426.svg" />
+                          <img data-layer="Vector" data-node-id="316-116" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/assets/316-116.svg" />
                         </div>
                       </div>
                       <div data-layer="Background" data-node-id="316-117" className="Background w-[20.20px] h-7 left-0 top-0 absolute bg-black" />
@@ -197,27 +197,27 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="316-1170" className="Container w-[768px] h-[696.84px] left-0 top-[0.06px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="316-1171" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-1172" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/manus-storage/316-1172_7e26bed8.webp" />
+                    <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-1172" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/316-1172.webp" />
                     <div data-layer="Background" data-node-id="316-1173" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                       <div data-layer="Strong" data-node-id="316-1174" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
                         <div data-layer="ホットペッパー予約はこちらから" data-node-id="316-1175" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">ホットペッパー予約はこちらから</div>
                         <div data-layer="Mask Group" data-node-id="316-1176" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                           <div data-layer="Mask" data-node-id="316-1177" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                             <div data-layer="image" data-node-id="316-1178" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
-                              <img data-layer="Vector" data-node-id="316-1179" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/manus-storage/316-1179_3ef82e8a.svg" />
+                              <img data-layer="Vector" data-node-id="316-1179" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/assets/316-1179.svg" />
                             </div>
                           </div>
                           <div data-layer="Background" data-node-id="316-1180" className="Background w-5 h-9 left-0 top-0 absolute bg-black" />
                         </div>
                       </div>
                     </div>
-                    <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="316-1181" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute overflow-hidden" src="/manus-storage/316-1181_f7447c2b.webp" />
+                    <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="316-1181" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute overflow-hidden" src="/assets/316-1181.webp" />
                     <div data-layer="Heading 2" data-node-id="316-1184" className="Heading2 w-[315px] h-[23px] left-[222px] top-[24px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                       <div data-layer="LINE簡単予約はこちらをタップ" data-node-id="316-1185" className="Line left-0 top-[2px] absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">LINE簡単予約はこちらをタップ</div>
                       <div data-layer="Mask Group" data-node-id="316-1186" className="MaskGroup w-[20.20px] h-7 left-[294.52px] top-[-1px] absolute">
                         <div data-layer="Mask" data-node-id="316-1187" className="Mask w-[20.20px] h-7 left-0 top-0 absolute overflow-hidden">
                           <div data-layer="image" data-node-id="316-1188" className="Image w-[20.20px] h-[20.20px] left-0 top-[3.90px] absolute overflow-hidden">
-                            <img data-layer="Vector" data-node-id="316-1189" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/manus-storage/316-1189_16943138.svg" />
+                            <img data-layer="Vector" data-node-id="316-1189" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/assets/316-1189.svg" />
                           </div>
                         </div>
                         <div data-layer="Background" data-node-id="316-1190" className="Background w-[20.20px] h-7 left-0 top-0 absolute bg-black" />
@@ -226,7 +226,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-            <img data-layer="Figure → %E7%9F%A2%E5%8D%B0-1.png" data-node-id="316-659" className="FigureE79fA2E58dB01Png w-[458px] h-5 left-[731.00px] top-[6136.41px] absolute" src="/manus-storage/316-659_bd0276e1.webp" />
+            <img data-layer="Figure → %E7%9F%A2%E5%8D%B0-1.png" data-node-id="316-659" className="FigureE79fA2E58dB01Png w-[458px] h-5 left-[731.00px] top-[6136.41px] absolute" src="/assets/316-659.webp" />
             <div data-layer="Heading 2" data-node-id="316-660" className="Heading2 w-[415.17px] h-[167.39px] left-[752.41px] top-[5930.03px] absolute">
                 <div data-layer="そのお悩み、" data-node-id="316-661" className="left-[63.28px] top-[2px] absolute text-center justify-center text-[#ff2678] text-[28px] font-light font-['Hiragino_Kaku_Gothic_ProN']">そのお悩み、</div>
                 <div data-layer="Paragraph+Background" data-node-id="316-662" className="ParagraphBackground w-[316.80px] h-[79.80px] left-[49.18px] top-0 absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
@@ -235,18 +235,18 @@ export default function Home() {
                 </div>
                 <div data-layer="あなたも「3ヶ月」で人生最後の ダイエットに成功しませんか？" data-node-id="316-665" className="3 left-0 top-[91.60px] absolute text-center justify-center text-[#ff2678] text-[28px] font-light font-['Hiragino_Kaku_Gothic_ProN']">あなたも「3ヶ月」で人生最後の<br/>ダイエットに成功しませんか？</div>
               </div>
-            <img data-layer="769×627 CTA 1" data-node-id="316-1191" className="627Cta1 w-[769px] h-[627px] left-[575.00px] top-[9001px] absolute" src="/manus-storage/316-1191_c9447523.webp" />
-            <img data-layer="Border 1" data-node-id="316-1212" className="Border1 w-[768px] h-[1139px] left-[576.00px] top-[1555px] absolute" src="/manus-storage/316-1212_bd6c0851.webp" />
+            <img data-layer="769×627 CTA 1" data-node-id="316-1191" className="627Cta1 w-[769px] h-[627px] left-[575.00px] top-[9001px] absolute" src="/assets/316-1191.webp" />
+            <img data-layer="Border 1" data-node-id="316-1212" className="Border1 w-[768px] h-[1139px] left-[576.00px] top-[1555px] absolute" src="/assets/316-1212.webp" />
             <div data-layer="Frame 5" data-node-id="316-1217" className="Frame5 w-[768px] h-[643px] left-[576.00px] top-0 absolute">
-                <img data-layer="Gemini_Generated_Image_sc0dnlsc0dnlsc0d 1" data-node-id="316-1218" className="GeminiGeneratedImageSc0dnlsc0dnlsc0d1 w-[768px] h-[643px] left-0 top-0 absolute" src="/manus-storage/316-1218_9883a44a.webp" />
-                <img data-layer="768×643　FV 1" data-node-id="316-1219" className="643Fv1 w-[768px] h-[643px] left-0 top-0 absolute" src="/manus-storage/316-1219_6e3d4a08.webp" />
+                <img data-layer="Gemini_Generated_Image_sc0dnlsc0dnlsc0d 1" data-node-id="316-1218" className="GeminiGeneratedImageSc0dnlsc0dnlsc0d1 w-[768px] h-[643px] left-0 top-0 absolute" src="/assets/316-1218.webp" />
+                <img data-layer="768×643　FV 1" data-node-id="316-1219" className="643Fv1 w-[768px] h-[643px] left-0 top-0 absolute" src="/assets/316-1219.webp" />
               </div>
           </div>
           <div data-layer="Main" data-node-id="320-1138" className="Main w-[1920px] h-[21641px] left-0 top-[120px] absolute">
-            <img data-layer="Figure → %E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E5%A5%B3%E6%80%A7.webp" data-node-id="320-1147" className="FigureE382AdE383A3E383B3E3839aE383BcE383B3E5A5B3E680A7Webp w-[634px] h-[254px] left-[643.00px] top-[10720.58px] absolute" src="/manus-storage/320-1147_98e1694b.webp" />
+            <img data-layer="Figure → %E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E5%A5%B3%E6%80%A7.webp" data-node-id="320-1147" className="FigureE382AdE383A3E383B3E3839aE383BcE383B3E5A5B3E680A7Webp w-[634px] h-[254px] left-[643.00px] top-[10720.58px] absolute z-10" src="/assets/320-1147.webp" />
             <div data-layer="などの不安を解消して頂く為に、初回キャンペーンをしています。ただ今、予約が多数で人数限定のキャ ンペーンになります。予約をご希望の方はお早めにご連絡をお願いいたします。" data-node-id="320-1148" className="left-[576.00px] top-[11228.69px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">などの不安を解消して頂く為に、初回キャンペーンをしています。ただ今、予約が多数で人数限定のキャ<br/>ンペーンになります。予約をご希望の方はお早めにご連絡をお願いいたします。</div>
             <div data-layer="Border" data-node-id="320-1149" className="Border w-[768px] h-[1105.69px] left-[3164.00px] top-[-2360px] absolute outline outline-1 outline-offset-[-1px] outline-[#ff2678]">
-                <img data-layer="Figure → %E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-575-1024x654.webp" data-node-id="320-1150" className="FigureE382B0E383AbE383BcE383975751024x654Webp w-[718px] h-[458.56px] left-[25px] top-[25px] absolute" src="/manus-storage/320-1150_f066b033.webp" />
+                <img data-layer="Figure → %E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-575-1024x654.webp" data-node-id="320-1150" className="FigureE382B0E383AbE383BcE383975751024x654Webp w-[718px] h-[458.56px] left-[25px] top-[25px] absolute" src="/assets/320-1150.webp" />
                 <div data-layer="通常10,000円" data-node-id="320-1151" className="10000 left-[268.39px] top-[522.56px] absolute text-center justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">通常10,000円　</div>
                 <div data-layer="Background" data-node-id="320-1152" className="Background w-[90.03px] h-8 left-[409.56px] top-[517.56px] absolute bg-[#fe2577] rounded-[1px]">
                   <div data-layer="Strong → 90%OFF" data-node-id="320-1153" className="Strong90Off left-[5px] top-[5px] absolute text-center justify-center text-white text-[19.10px] font-light font-['Hiragino_Kaku_Gothic_ProN']">90%OFF</div>
@@ -298,11 +298,11 @@ export default function Home() {
                 </div>
                 <div data-layer="Link" data-node-id="320-1185" className="Link w-[574.39px] h-14 left-[96.80px] top-[821.50px] absolute bg-[#62d847] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(74,162,53,1.00)]">
                   <div data-layer="今すぐLINEで予約する" data-node-id="320-1186" className="Line left-[186.54px] top-[16px] absolute text-center justify-center text-white text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">今すぐLINEで予約する</div>
-                  <img data-layer="SVG" data-node-id="320-1187" className="Svg w-[19.36px] h-[19.36px] left-[372.87px] top-[18.31px] absolute overflow-hidden" src="/manus-storage/320-1187_f647970d.svg" />
+                  <img data-layer="SVG" data-node-id="320-1187" className="Svg w-[19.36px] h-[19.36px] left-[372.87px] top-[18.31px] absolute overflow-hidden" src="/assets/320-1187.svg" />
                 </div>
                 <div data-layer="Link" data-node-id="320-1192" className="Link w-[574.39px] h-14 left-[96.80px] top-[893.50px] absolute bg-[#e52b79] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(172,32,91,1.00)]">
                   <div data-layer="ホットペッパーで予約する" data-node-id="320-1193" className="left-[172.01px] top-[16px] absolute text-center justify-center text-white text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパーで予約する</div>
-                  <img data-layer="SVG" data-node-id="320-1194" className="Svg w-[19.36px] h-[19.36px] left-[387.39px] top-[18.31px] absolute overflow-hidden" src="/manus-storage/320-1194_b8d3419c.svg" />
+                  <img data-layer="SVG" data-node-id="320-1194" className="Svg w-[19.36px] h-[19.36px] left-[387.39px] top-[18.31px] absolute overflow-hidden" src="/assets/320-1194.svg" />
                 </div>
               </div>
             <div data-layer="Background" data-node-id="320-1280" className="Background w-[1920px] h-[108.80px] left-[0.00px] top-[10595.78px] absolute bg-[#f7f6eb]">
@@ -314,7 +314,7 @@ export default function Home() {
                     <div data-layer="どんな先生が担当してくれるの？" data-node-id="320-1285" className="left-[2px] top-[2px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">どんな先生が担当してくれるの？</div>
                   </div>
                   <div data-layer="Icon" data-node-id="320-1286" className="Icon w-4 h-4 left-0 top-[4px] absolute">
-                    <img data-layer="Vector" data-node-id="320-1287" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/manus-storage/320-1287_a49479b4.svg" />
+                    <img data-layer="Vector" data-node-id="320-1287" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/assets/320-1287.svg" />
                   </div>
                 </div>
                 <div data-layer="Item" data-node-id="320-1288" className="Item w-[764px] h-6 left-[4px] top-[28px] absolute">
@@ -322,7 +322,7 @@ export default function Home() {
                     <div data-layer="自分の悩みで行っていいの？" data-node-id="320-1290" className="left-[2px] top-[2px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">自分の悩みで行っていいの？</div>
                   </div>
                   <div data-layer="Icon" data-node-id="320-1291" className="Icon w-4 h-4 left-0 top-[4px] absolute">
-                    <img data-layer="Vector" data-node-id="320-1292" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/manus-storage/320-1292_61517f8d.svg" />
+                    <img data-layer="Vector" data-node-id="320-1292" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/assets/320-1292.svg" />
                   </div>
                 </div>
                 <div data-layer="Item" data-node-id="320-1293" className="Item w-[764px] h-6 left-[4px] top-[56px] absolute">
@@ -330,7 +330,7 @@ export default function Home() {
                     <div data-layer="自分に合うかまずは試してみたい" data-node-id="320-1295" className="left-[2px] top-[2px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">自分に合うかまずは試してみたい</div>
                   </div>
                   <div data-layer="Icon" data-node-id="320-1296" className="Icon w-4 h-4 left-0 top-[4px] absolute">
-                    <img data-layer="Vector" data-node-id="320-1297" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/manus-storage/320-1297_e393b482.svg" />
+                    <img data-layer="Vector" data-node-id="320-1297" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/assets/320-1297.svg" />
                   </div>
                 </div>
                 <div data-layer="Item" data-node-id="320-1298" className="Item w-[764px] h-6 left-[4px] top-[84px] absolute">
@@ -338,7 +338,7 @@ export default function Home() {
                     <div data-layer="具体的にどんなダイエット？" data-node-id="320-1300" className="left-[2px] top-[2px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">具体的にどんなダイエット？</div>
                   </div>
                   <div data-layer="Icon" data-node-id="320-1301" className="Icon w-4 h-4 left-0 top-[4px] absolute">
-                    <img data-layer="Vector" data-node-id="320-1302" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/manus-storage/320-1302_412e8b08.svg" />
+                    <img data-layer="Vector" data-node-id="320-1302" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/assets/320-1302.svg" />
                   </div>
                 </div>
               </div>
@@ -394,7 +394,7 @@ export default function Home() {
                   <div data-layer="致しま" data-node-id="320-1340" className="left-[307.55px] top-0 absolute justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">致しま</div>
                   <div data-layer="す。" data-node-id="320-1341" className="left-0 top-[33.04px] absolute justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">す。</div>
                 </div>
-                <img data-layer="Figure → 193.webp" data-node-id="320-1342" className="Figure193Webp w-[372px] h-[248px] left-[972px] top-[213.51px] absolute rounded-full" src="/manus-storage/320-1342_114c000c.webp" />
+                <img data-layer="Figure → 193.webp" data-node-id="320-1342" className="Figure193Webp w-[372px] h-[248px] left-[972px] top-[213.51px] absolute rounded-full" src="/assets/320-1342.webp" />
                 <div data-layer="Strong → ダイエットに強いビオ整体院" data-node-id="320-1343" className="Strong left-[1132.63px] top-[481.51px] absolute text-right justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">ダイエットに強いビオ整体院<br/>代表 小泉 宏輝</div>
                 <div data-layer="Strong" data-node-id="320-1344" className="Strong w-[767.27px] h-[85.31px] left-[576px] top-[617.07px] absolute">
                   <div data-layer="とは言っても、本当に運動なしでダイエット成功できるのか？？と疑問を持つ方が一定数おられ るかと思いますので、" data-node-id="320-1345" className="left-0 top-0 absolute justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">とは言っても、本当に運動なしでダイエット成功できるのか？？と疑問を持つ方が一定数おられ<br/>るかと思いますので、</div>
@@ -421,7 +421,7 @@ export default function Home() {
                     <div data-layer="つまり、" data-node-id="320-1360" className="left-0 top-[2px] absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">つまり、</div>
                     <div data-layer="なんです！" data-node-id="320-1361" className="left-0 top-[30.44px] absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">なんです！</div>
                     <div data-layer="これらは目的も違えばアプローチの方法も全 く変わってきます。今一度、あなたはダイエ ットがしたいのか？それともボディメイクが したいのか？自分に質問を投げかけてくださ い。" data-node-id="320-1362" className="left-0 top-[58.28px] absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">これらは目的も違えばアプローチの方法も全<br/>く変わってきます。今一度、あなたはダイエ<br/>ットがしたいのか？それともボディメイクが<br/>したいのか？自分に質問を投げかけてくださ<br/>い。</div>
-                    <div data-layer="ダイエットとボディメイクは全く別物" data-node-id="320-1363" className="left-[65px] top-0 absolute justify-center text-[#ff2678] text-lg font-bold font-['Noto_Sans_JP']">ダイエットとボディメイクは全く別物</div>
+                    <div data-layer="ダイエットとボディメイクは全く別物" data-node-id="320-1363" className="left-[65px] top-0 absolute justify-center text-[#ff2678] text-lg font-bold font-['Noto_Sans_JP'] whitespace-nowrap">ダイエットとボディメイクは全く別物</div>
                   </div>
                   <div data-layer="Strong" data-node-id="320-1364" className="Strong w-[360.48px] h-[104.42px] left-[576px] top-[383px] absolute">
                     <div data-layer="Mark" data-node-id="320-1365" className="Mark w-[81px] h-[22px] left-[279px] top-[26px] absolute bg-[#fcf69f]" />
@@ -434,7 +434,7 @@ export default function Home() {
                     <div data-layer="人生最後のダイエットに致します。" data-node-id="320-1371" className="left-[2px] top-[-6.89px] absolute justify-center text-[#ff2678] text-[28.20px] font-bold font-['Noto_Sans_JP']">人生最後のダイエットに致します。</div>
                   </div>
                   <div data-layer="Strong" data-node-id="320-1372" className="Strong w-[366px] h-[53px] left-[579px] top-[514px] absolute" />
-                  <img data-layer="Figure → 193.webp" data-node-id="320-1373" className="Figure193Webp w-[372px] h-[248px] left-[972px] top-[213.51px] absolute rounded-full overflow-hidden" src="/manus-storage/320-1373_791f46d3.webp" />
+                  <img data-layer="Figure → 193.webp" data-node-id="320-1373" className="Figure193Webp w-[372px] h-[248px] left-[972px] top-[213.51px] absolute rounded-full overflow-hidden" src="/assets/320-1373.webp" />
                   <div data-layer="Strong → ダイエットに強いビオ整体院" data-node-id="320-1375" className="Strong left-[1132.63px] top-[481.51px] absolute text-right justify-center text-[#333333] text-base font-bold font-['Noto_Sans_JP']">ダイエットに強いゆい整骨院<br/>代表 長岡　ゆい</div>
                   <div data-layer="Strong" data-node-id="320-1376" className="Strong w-[1000px] h-[60px] left-[576px] top-[614px] absolute">
                     <div data-layer="Mark" data-node-id="320-1377" className="Mark w-[535px] h-[19px] left-[288px] top-[33px] absolute bg-[#fcf69f]" />
@@ -454,7 +454,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1387" className="Container w-[768px] h-[430px] left-[576px] top-[202.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1388" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA01.webp" data-node-id="320-1389" className="FigureBa01Webp w-[339.98px] h-[267.91px] left-[32px] top-[73.03px] absolute" src="/manus-storage/320-1389_b792bf7b.webp" />
+                  <img data-layer="Figure → BA01.webp" data-node-id="320-1389" className="FigureBa01Webp w-[339.98px] h-[267.91px] left-[32px] top-[73.03px] absolute" src="/assets/320-1389.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1390" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                     <div data-layer="40代 女性 / ３ヶ月コース 体重：-9.5kg 体脂肪：-7.5% ウエスト：-11cm" data-node-id="320-1391" className="95kg7511cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">40代 女性 / ３ヶ月コース<br/>体重：-9.5kg<br/>体脂肪：-7.5%<br/>ウエスト：-11cm</div>
                   </div>
@@ -471,7 +471,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1400" className="Container w-[768px] h-[430px] left-[576px] top-[664.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1401" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA02.webp" data-node-id="320-1402" className="FigureBa02Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.66px] absolute" src="/manus-storage/320-1402_6526fef8.webp" />
+                  <img data-layer="Figure → BA02.webp" data-node-id="320-1402" className="FigureBa02Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.66px] absolute" src="/assets/320-1402.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1403" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[150.38px] absolute border-l-2 border-black">
                     <div data-layer="20代 女性 / ６ヶ月コース 体重：-29.8kg 体脂肪：-14.1% ウエスト：-23cm" data-node-id="320-1404" className="298kg14123cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">20代 女性 / ６ヶ月コース<br/>体重：-29.8kg<br/>体脂肪：-14.1%<br/>ウエスト：-23cm</div>
                   </div>
@@ -488,7 +488,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1413" className="Container w-[768px] h-[430px] left-[576px] top-[1126.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1414" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA03.webp" data-node-id="320-1415" className="FigureBa03Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1415_b53b9981.webp" />
+                  <img data-layer="Figure → BA03.webp" data-node-id="320-1415" className="FigureBa03Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1415.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1416" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                     <div data-layer="30代 女性 / ３ヶ月コース 体重：-12.1kg 体脂肪：-8.3% ウエスト：-14cm" data-node-id="320-1417" className="121kg8314cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">30代 女性 / ３ヶ月コース<br/>体重：-12.1kg<br/>体脂肪：-8.3%<br/>ウエスト：-14cm</div>
                   </div>
@@ -505,7 +505,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1426" className="Container w-[768px] h-[430px] left-[576px] top-[1588.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1427" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA04-1.webp" data-node-id="320-1428" className="FigureBa041Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1428_dc04a463.webp" />
+                  <img data-layer="Figure → BA04-1.webp" data-node-id="320-1428" className="FigureBa041Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1428.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1429" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                     <div data-layer="30代 女性 / ３ヶ月コース 体重：-14.3kg 体脂肪：-9.1% ウエスト：-17cm" data-node-id="320-1430" className="143kg9117cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">30代 女性 / ３ヶ月コース<br/>体重：-14.3kg<br/>体脂肪：-9.1%<br/>ウエスト：-17cm</div>
                   </div>
@@ -522,7 +522,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1439" className="Container w-[768px] h-[430px] left-[576px] top-[2050.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1440" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA05-1.webp" data-node-id="320-1441" className="FigureBa051Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1441_f3b1e9bc.webp" />
+                  <img data-layer="Figure → BA05-1.webp" data-node-id="320-1441" className="FigureBa051Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1441.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1442" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                     <div data-layer="40代 女性 / ３ヶ月コース 体重：-10.3kg 体脂肪：-7.1% ウエスト：-12.5cm" data-node-id="320-1443" className="103kg71125cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">40代 女性 / ３ヶ月コース<br/>体重：-10.3kg<br/>体脂肪：-7.1%<br/>ウエスト：-12.5cm</div>
                   </div>
@@ -539,7 +539,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1452" className="Container w-[768px] h-[430px] left-[576px] top-[2512.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1453" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA06.webp" data-node-id="320-1454" className="FigureBa06Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1454_99c6682d.webp" />
+                  <img data-layer="Figure → BA06.webp" data-node-id="320-1454" className="FigureBa06Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1454.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1455" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                     <div data-layer="40代 女性 / ３ヶ月コース 体重：-9.7kg 体脂肪：-7.7% ウエスト：-13cm" data-node-id="320-1456" className="97kg7713cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">40代 女性 / ３ヶ月コース<br/>体重：-9.7kg<br/>体脂肪：-7.7%<br/>ウエスト：-13cm</div>
                   </div>
@@ -556,7 +556,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1465" className="Container w-[768px] h-[430px] left-[576px] top-[2974.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1466" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA07.webp" data-node-id="320-1467" className="FigureBa07Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1467_75327636.webp" />
+                  <img data-layer="Figure → BA07.webp" data-node-id="320-1467" className="FigureBa07Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1467.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1468" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                     <div data-layer="40代 女性 / ３ヶ月コース 体重：-8.7kg 体脂肪：-8.7% ウエスト：-13cm" data-node-id="320-1469" className="87kg8713cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">40代 女性 / ３ヶ月コース<br/>体重：-8.7kg<br/>体脂肪：-8.7%<br/>ウエスト：-13cm</div>
                   </div>
@@ -572,7 +572,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1477" className="Container w-[768px] h-[430px] left-[576px] top-[3436.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1478" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA08.webp" data-node-id="320-1479" className="FigureBa08Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.66px] absolute" src="/manus-storage/320-1479_1d2c5493.webp" />
+                  <img data-layer="Figure → BA08.webp" data-node-id="320-1479" className="FigureBa08Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.66px] absolute" src="/assets/320-1479.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1480" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                     <div data-layer="60代 女性 / ３ヶ月コース 体重：-12.7kg 体脂肪：-10.7% ウエスト：-17cm" data-node-id="320-1481" className="127kg10717cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">60代 女性 / ３ヶ月コース<br/>体重：-12.7kg<br/>体脂肪：-10.7%<br/>ウエスト：-17cm</div>
                   </div>
@@ -589,7 +589,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1490" className="Container w-[768px] h-[430px] left-[576px] top-[3898.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1491" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA09.webp" data-node-id="320-1492" className="FigureBa09Webp w-[339.97px] h-[266.72px] left-[32.02px] top-[73.63px] absolute" src="/manus-storage/320-1492_604921fd.webp" />
+                  <img data-layer="Figure → BA09.webp" data-node-id="320-1492" className="FigureBa09Webp w-[339.97px] h-[266.72px] left-[32.02px] top-[73.63px] absolute" src="/assets/320-1492.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1493" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                     <div data-layer="30代 男性 / ３ヶ月コース 体重：-12.7kg 体脂肪：-5.7% ウエスト：-15.5cm" data-node-id="320-1494" className="127kg57155cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">30代 男性 / ３ヶ月コース<br/>体重：-12.7kg<br/>体脂肪：-5.7%<br/>ウエスト：-15.5cm</div>
                   </div>
@@ -606,7 +606,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1503" className="Container w-[768px] h-[430px] left-[576px] top-[4360.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1504" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA10.webp" data-node-id="320-1505" className="FigureBa10Webp w-[339.97px] h-[267.45px] left-[32.02px] top-[73.27px] absolute" src="/manus-storage/320-1505_2392a6a8.webp" />
+                  <img data-layer="Figure → BA10.webp" data-node-id="320-1505" className="FigureBa10Webp w-[339.97px] h-[267.45px] left-[32.02px] top-[73.27px] absolute" src="/assets/320-1505.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1506" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                     <div data-layer="50代 男性 / ３ヶ月コース 体重：-11.7kg 体脂肪：-5.5% ウエスト：-15cm" data-node-id="320-1507" className="117kg5515cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">50代 男性 / ３ヶ月コース<br/>体重：-11.7kg<br/>体脂肪：-5.5%<br/>ウエスト：-15cm</div>
                   </div>
@@ -623,7 +623,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="320-1516" className="Container w-[768px] h-[430px] left-[576px] top-[4822.19px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="320-1517" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → BA11.webp" data-node-id="320-1518" className="FigureBa11Webp w-[339.98px] h-[267.14px] left-[32px] top-[73.42px] absolute" src="/manus-storage/320-1518_58183fc0.webp" />
+                  <img data-layer="Figure → BA11.webp" data-node-id="320-1518" className="FigureBa11Webp w-[339.98px] h-[267.14px] left-[32px] top-[73.42px] absolute" src="/assets/320-1518.webp" />
                   <div data-layer="VerticalBorder" data-node-id="320-1519" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                     <div data-layer="30代 男性 / ６ヶ月コース 体重：-20.2kg 体脂肪：-13.5% ウエスト：-19cm" data-node-id="320-1520" className="202kg13519cm left-[12px] top-[4px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">30代 男性 / ６ヶ月コース<br/>体重：-20.2kg<br/>体脂肪：-13.5%<br/>ウエスト：-19cm</div>
                   </div>
@@ -649,7 +649,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1536" className="Container w-[768px] h-[430px] left-[576px] top-[202.19px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1537" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA01.webp" data-node-id="320-1538" className="FigureBa01Webp w-[339.98px] h-[267.91px] left-[32px] top-[73.03px] absolute" src="/manus-storage/320-1538_0a4c12e6.webp" />
+                    <img data-layer="Figure → BA01.webp" data-node-id="320-1538" className="FigureBa01Webp w-[339.98px] h-[267.91px] left-[32px] top-[73.03px] absolute" src="/assets/320-1538.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1539" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                       <div data-layer="40代 女性 / ３ヶ月コース 体重：-9.5kg 体脂肪：-7.5% ウエスト：-11cm" data-node-id="320-1540" className="95kg7511cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">40代 女性 / ３ヶ月コース<br/>体重：-9.5kg<br/>体脂肪：-7.5%<br/>ウエスト：-11cm</div>
                     </div>
@@ -665,7 +665,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1549" className="Container w-[768px] h-[430px] left-[576px] top-[664px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1550" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA02.webp" data-node-id="320-1551" className="FigureBa02Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.66px] absolute" src="/manus-storage/320-1551_66d95b2e.webp" />
+                    <img data-layer="Figure → BA02.webp" data-node-id="320-1551" className="FigureBa02Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.66px] absolute" src="/assets/320-1551.webp" />
                     <div data-layer="Paragraph+Background" data-node-id="320-1552" className="ParagraphBackground w-[331px] h-[30px] left-[396px] top-[257.81px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]" />
                     <div data-layer="Paragraph+Background" data-node-id="320-1553" className="ParagraphBackground w-[103px] h-[30px] left-[396px] top-[285.81px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]" />
                     <div data-layer="VerticalBorder" data-node-id="320-1554" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[150.38px] absolute border-l-2 border-black">
@@ -680,7 +680,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1561" className="Container w-[768px] h-[430px] left-[576px] top-[1126.19px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1562" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA03.webp" data-node-id="320-1563" className="FigureBa03Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1563_7ef917d8.webp" />
+                    <img data-layer="Figure → BA03.webp" data-node-id="320-1563" className="FigureBa03Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1563.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1564" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                       <div data-layer="30代 女性 / ３ヶ月コース 体重：-12.1kg 体脂肪：-8.3% ウエスト：-14cm" data-node-id="320-1565" className="121kg8314cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">30代 女性 / ３ヶ月コース<br/>体重：-12.1kg<br/>体脂肪：-8.3%<br/>ウエスト：-14cm</div>
                     </div>
@@ -697,7 +697,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1574" className="Container w-[768px] h-[430px] left-[576px] top-[1588px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1575" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA04-1.webp" data-node-id="320-1576" className="FigureBa041Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1576_156aa97e.webp" />
+                    <img data-layer="Figure → BA04-1.webp" data-node-id="320-1576" className="FigureBa041Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1576.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1577" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                       <div data-layer="30代 女性 / ３ヶ月コース 体重：-14.3kg 体脂肪：-9.1% ウエスト：-17cm" data-node-id="320-1578" className="143kg9117cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">30代 女性 / ３ヶ月コース<br/>体重：-14.3kg<br/>体脂肪：-9.1%<br/>ウエスト：-17cm</div>
                     </div>
@@ -712,7 +712,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1587" className="Container w-[768px] h-[430px] left-[576px] top-[2050px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1588" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA05-1.webp" data-node-id="320-1589" className="FigureBa051Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1589_39dc7e23.webp" />
+                    <img data-layer="Figure → BA05-1.webp" data-node-id="320-1589" className="FigureBa051Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1589.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1590" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                       <div data-layer="40代 女性 / ３ヶ月コース 体重：-10.3kg 体脂肪：-7.1% ウエスト：-12.5cm" data-node-id="320-1591" className="103kg71125cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">40代 女性 / ３ヶ月コース<br/>体重：-10.3kg<br/>体脂肪：-7.1%<br/>ウエスト：-12.5cm</div>
                     </div>
@@ -729,7 +729,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1600" className="Container w-[768px] h-[430px] left-[576px] top-[2512px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1601" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA06.webp" data-node-id="320-1602" className="FigureBa06Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1602_3d1b9a64.webp" />
+                    <img data-layer="Figure → BA06.webp" data-node-id="320-1602" className="FigureBa06Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1602.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1603" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                       <div data-layer="40代 女性 / ３ヶ月コース 体重：-9.7kg 体脂肪：-7.7% ウエスト：-13cm" data-node-id="320-1604" className="97kg7713cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">40代 女性 / ３ヶ月コース<br/>体重：-9.7kg<br/>体脂肪：-7.7%<br/>ウエスト：-13cm</div>
                     </div>
@@ -745,7 +745,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1613" className="Container w-[768px] h-[430px] left-[592px] top-[2946px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1614" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA07.webp" data-node-id="320-1615" className="FigureBa07Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/manus-storage/320-1615_4040db19.webp" />
+                    <img data-layer="Figure → BA07.webp" data-node-id="320-1615" className="FigureBa07Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.67px] absolute" src="/assets/320-1615.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1616" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[123.50px] absolute border-l-2 border-black">
                       <div data-layer="40代 女性 / ３ヶ月コース 体重：-8.7kg 体脂肪：-8.7% ウエスト：-13cm" data-node-id="320-1617" className="87kg8713cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">40代 女性 / ３ヶ月コース<br/>体重：-8.7kg<br/>体脂肪：-8.7%<br/>ウエスト：-13cm</div>
                     </div>
@@ -759,7 +759,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1624" className="Container w-[768px] h-[430px] left-[576px] top-[3436.19px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1625" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA08.webp" data-node-id="320-1626" className="FigureBa08Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.66px] absolute" src="/manus-storage/320-1626_fa354bb2.webp" />
+                    <img data-layer="Figure → BA08.webp" data-node-id="320-1626" className="FigureBa08Webp w-[339.98px] h-[266.66px] left-[32px] top-[73.66px] absolute" src="/assets/320-1626.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1627" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                       <div data-layer="60代 女性 / ３ヶ月コース 体重：-12.7kg 体脂肪：-10.7% ウエスト：-17cm" data-node-id="320-1628" className="127kg10717cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">60代 女性 / ３ヶ月コース<br/>体重：-12.7kg<br/>体脂肪：-10.7%<br/>ウエスト：-17cm</div>
                     </div>
@@ -775,7 +775,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1637" className="Container w-[768px] h-[430px] left-[576px] top-[3898.19px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1638" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA09.webp" data-node-id="320-1639" className="FigureBa09Webp w-[339.97px] h-[266.72px] left-[32.02px] top-[73.63px] absolute" src="/manus-storage/320-1639_6dfabd8e.webp" />
+                    <img data-layer="Figure → BA09.webp" data-node-id="320-1639" className="FigureBa09Webp w-[339.97px] h-[266.72px] left-[32.02px] top-[73.63px] absolute" src="/assets/320-1639.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1640" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                       <div data-layer="30代 男性 / ３ヶ月コース 体重：-12.7kg 体脂肪：-5.7% ウエスト：-15.5cm" data-node-id="320-1641" className="127kg57155cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">30代 男性 / ３ヶ月コース<br/>体重：-12.7kg<br/>体脂肪：-5.7%<br/>ウエスト：-15.5cm</div>
                     </div>
@@ -791,7 +791,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1650" className="Container w-[768px] h-[430px] left-[576px] top-[4360.19px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1651" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA10.webp" data-node-id="320-1652" className="FigureBa10Webp w-[339.97px] h-[267.45px] left-[32.02px] top-[73.27px] absolute" src="/manus-storage/320-1652_48c82610.webp" />
+                    <img data-layer="Figure → BA10.webp" data-node-id="320-1652" className="FigureBa10Webp w-[339.97px] h-[267.45px] left-[32.02px] top-[73.27px] absolute" src="/assets/320-1652.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1653" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                       <div data-layer="50代 男性 / ３ヶ月コース 体重：-11.7kg 体脂肪：-5.5% ウエスト：-15cm" data-node-id="320-1654" className="117kg5515cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">50代 男性 / ３ヶ月コース<br/>体重：-11.7kg<br/>体脂肪：-5.5%<br/>ウエスト：-15cm</div>
                     </div>
@@ -808,7 +808,7 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="320-1663" className="Container w-[768px] h-[430px] left-[576px] top-[4822.19px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="320-1664" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → BA11.webp" data-node-id="320-1665" className="FigureBa11Webp w-[339.98px] h-[267.14px] left-[32px] top-[73.42px] absolute" src="/manus-storage/320-1665_ecfe5edf.webp" />
+                    <img data-layer="Figure → BA11.webp" data-node-id="320-1665" className="FigureBa11Webp w-[339.98px] h-[267.14px] left-[32px] top-[73.42px] absolute" src="/assets/320-1665.webp" />
                     <div data-layer="VerticalBorder" data-node-id="320-1666" className="Verticalborder w-[340px] h-[102.38px] left-[396px] top-[139.17px] absolute border-l-2 border-black">
                       <div data-layer="30代 男性 / ６ヶ月コース 体重：-20.2kg 体脂肪：-13.5% ウエスト：-19cm" data-node-id="320-1667" className="202kg13519cm left-[12px] top-[4px] absolute justify-center text-black text-base font-medium font-['YuGothic']">30代 男性 / ６ヶ月コース<br/>体重：-20.2kg<br/>体脂肪：-13.5%<br/>ウエスト：-19cm</div>
                     </div>
@@ -823,7 +823,7 @@ export default function Home() {
                     <div data-layer="※個人の感想であり成果を保証するものではありません。" data-node-id="320-1674" className="left-[396px] top-[357.33px] absolute justify-center text-black text-xs font-medium font-['YuGothic']">※個人の感想であり成果を保証するものではありません。</div>
                     <div data-layer="Heading 2 → Strong → ダイエットに成功して彼女をつ&#10;くる" data-node-id="320-1675" className="Heading2Strong left-[396px] top-[57.06px] absolute justify-center text-[#3d79d5] text-[22.40px] font-bold font-['Noto_Sans_JP']">ダイエットに成功して彼女をつ<br/>くる</div>
                   </div>
-                  <img data-layer="Background (4) 1" data-node-id="320-1676" className="Background41 w-[1918px] h-[5280px] left-[-10px] top-0 absolute" src="/manus-storage/320-1676_39568392.webp" />
+                  <img data-layer="Background (4) 1" data-node-id="320-1676" className="Background41 w-[1918px] h-[5280px] left-[-10px] top-0 absolute" src="/assets/320-1676.webp" />
                 </div>
               </div>
             <div data-layer="Background" data-node-id="320-1677" className="Background w-[1920px] h-[581.08px] left-[0.00px] top-[19030.64px] absolute bg-[#f7f7f7]">
@@ -834,7 +834,7 @@ export default function Home() {
                     <div data-layer="で、『期間が終了してからも、さらに体重が落ちました！』 という声が、続出しているのです。" data-node-id="320-1682" className="left-0 top-[30.14px] absolute justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">で、『期間が終了してからも、さらに体重が落ちました！』<br/>という声が、続出しているのです。</div>
                   </div>
                 </div>
-                <img data-layer="Figure → 191.webp" data-node-id="320-1683" className="Figure191Webp w-[248px] h-[165.33px] left-[1096px] top-[352.09px] absolute rounded-full" src="/manus-storage/320-1683_8cc580bc.webp" />
+                <img data-layer="Figure → 191.webp" data-node-id="320-1683" className="Figure191Webp w-[248px] h-[165.33px] left-[1096px] top-[352.09px] absolute rounded-full" src="/assets/320-1683.webp" />
                 <div data-layer="Strong" data-node-id="320-1684" className="Strong w-[761.67px] h-[273.25px] left-[576px] top-[37px] absolute">
                   <div data-layer="本当にこの人たちみたいに、私でも痩せられるの？他とは一体何が違うんですか！" data-node-id="320-1685" className="left-0 top-0 absolute justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">本当にこの人たちみたいに、私でも痩せられるの？他とは一体何が違うんですか！</div>
                   <div data-layer="当院では、" data-node-id="320-1686" className="left-0 top-[63.31px] absolute justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">当院では、</div>
@@ -854,7 +854,7 @@ export default function Home() {
                 </div>
               </div>
             <div data-layer="Background" data-node-id="320-1697" className="Background w-[1920px] h-[761.59px] left-[0.00px] top-[19611.72px] absolute bg-[#f7f7f7]">
-                <img data-layer="Figure → worries02-1024x640.jpg" data-node-id="320-1698" className="FigureWorries021024x640Jpg w-[768px] h-[480px] left-[576px] top-[32px] absolute" src="/manus-storage/320-1698_af70d561.webp" />
+                <img data-layer="Figure → worries02-1024x640.jpg" data-node-id="320-1698" className="FigureWorries021024x640Jpg w-[768px] h-[480px] left-[576px] top-[32px] absolute" src="/assets/320-1698.webp" />
                 <div data-layer="VerticalBorder" data-node-id="320-1699" className="Verticalborder w-[768px] h-[28.80px] left-[576px] top-[544px] absolute border-l-2 border-[#333333]">
                   <div data-layer="Strong → 他にも" data-node-id="320-1700" className="Strong left-[12px] top-[5px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">他にも…</div>
                 </div>
@@ -867,7 +867,7 @@ export default function Home() {
                       </div>
                     </div>
                     <div data-layer="Icon" data-node-id="320-1707" className="Icon w-4 h-4 left-0 top-[4px] absolute">
-                      <img data-layer="Vector" data-node-id="320-1708" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/manus-storage/320-1708_104bbbd5.svg" />
+                      <img data-layer="Vector" data-node-id="320-1708" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/assets/320-1708.svg" />
                     </div>
                   </div>
                   <div data-layer="Item" data-node-id="320-1709" className="Item w-[764px] h-6 left-[4px] top-[28px] absolute">
@@ -878,7 +878,7 @@ export default function Home() {
                       </div>
                     </div>
                     <div data-layer="Icon" data-node-id="320-1714" className="Icon w-4 h-4 left-0 top-[4px] absolute">
-                      <img data-layer="Vector" data-node-id="320-1715" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/manus-storage/320-1715_2c344667.svg" />
+                      <img data-layer="Vector" data-node-id="320-1715" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/assets/320-1715.svg" />
                     </div>
                   </div>
                   <div data-layer="Item" data-node-id="320-1716" className="Item w-[764px] h-6 left-[4px] top-[56px] absolute">
@@ -889,7 +889,7 @@ export default function Home() {
                       </div>
                     </div>
                     <div data-layer="Icon" data-node-id="320-1721" className="Icon w-4 h-4 left-0 top-[4px] absolute">
-                      <img data-layer="Vector" data-node-id="320-1722" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/manus-storage/320-1722_a413ec3c.svg" />
+                      <img data-layer="Vector" data-node-id="320-1722" className="Vector w-[14.34px] h-[10.91px] left-[0.83px] top-[2.33px] absolute" src="/assets/320-1722.svg" />
                     </div>
                   </div>
                 </div>
@@ -946,11 +946,11 @@ export default function Home() {
                 <div data-layer="Mark → 人生を変えるキッカケ" data-node-id="320-1770" className="Mark left-[2px] top-[-7px] absolute text-center justify-center text-[#ff2678] text-[25.60px] font-light font-['Hiragino_Kaku_Gothic_ProN']">人生を変えるキッカケ</div>
                 <div data-layer="になるかも知れません！" data-node-id="320-1771" className="left-[262.14px] top-[-2px] absolute text-center justify-center text-[#333333] text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">になるかも知れません！</div>
               </div>
-            <img data-layer="Figure → AdobeStock_91479302-1-scaled-2-768x512-1.jpeg" data-node-id="320-1772" className="FigureAdobestock914793021Scaled2768x5121Jpeg w-[312.47px] h-[208.31px] left-[1001.77px] top-[20517.92px] absolute rounded-full" src="/manus-storage/320-1772_974fe679.webp" />
-            <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="320-1773" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[21014.14px] absolute" src="/manus-storage/320-1773_53f6596b.webp" />
+            <img data-layer="Figure → AdobeStock_91479302-1-scaled-2-768x512-1.jpeg" data-node-id="320-1772" className="FigureAdobestock914793021Scaled2768x5121Jpeg w-[312.47px] h-[208.31px] left-[1001.77px] top-[20517.92px] absolute rounded-full" src="/assets/320-1772.webp" />
+            <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="320-1773" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[21014.14px] absolute" src="/assets/320-1773.webp" />
             <div data-layer="Background" data-node-id="320-1774" className="Background w-[573.52px] h-[61.42px] left-[675.00px] top-[20415px] absolute bg-[#ff2678] rounded-sm">
                 <div data-layer="Strong → そんなあなたに1つ特別なご提案があります" data-node-id="320-1775" className="Strong1 left-[32px] top-[15.80px] absolute text-center justify-center text-white text-[25.60px] font-bold font-['Noto_Sans_JP']">そんなあなたに1つ特別なご提案があります</div>
-                <img data-layer="Polygon 1" data-node-id="320-1776" className="Polygon1 w-[24.19px] h-[24.19px] left-[274.77px] top-[54.69px] absolute origin-top-left rotate-[179.54deg]" src="/manus-storage/320-1776_e90a514e.svg" />
+                <img data-layer="Polygon 1" data-node-id="320-1776" className="Polygon1 w-[24.19px] h-[24.19px] left-[274.77px] top-[54.69px] absolute origin-top-left rotate-[179.54deg]" src="/assets/320-1776.svg" />
               </div>
             <div data-layer="Group 3" data-node-id="320-1777" className="Group3 w-[753.92px] h-[453.08px] left-[576.00px] top-[20518px] absolute">
                 <div data-layer="Strong → もしあなたが、本気でダイエットしたい！" data-node-id="320-1778" className="Strong left-0 top-[22.08px] absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">もしあなたが、本気でダイエットしたい！<br/>と思われているなら当院で、</div>
@@ -958,7 +958,7 @@ export default function Home() {
                   <div data-layer="Mark" data-node-id="320-1780" className="Mark w-[283px] h-[19px] left-0 top-[21px] absolute bg-[#b7e3ff]" />
                   <div data-layer="人生最後のダイエットをしませんか？" data-node-id="320-1781" className="left-0 top-[9px] absolute justify-center text-[#3d79d5] text-[28.20px] font-bold font-['Noto_Sans_JP']">人生最後のダイエットをしませんか？</div>
                 </div>
-                <img data-layer="Figure → AdobeStock_91479302-1-scaled-2-768x512-1.jpeg" data-node-id="320-1782" className="FigureAdobestock914793021Scaled2768x5121Jpeg w-[312.47px] h-[208.31px] left-[426.77px] top-0 absolute rounded-full" src="/manus-storage/320-1782_0bc23bbe.webp" />
+                <img data-layer="Figure → AdobeStock_91479302-1-scaled-2-768x512-1.jpeg" data-node-id="320-1782" className="FigureAdobestock914793021Scaled2768x5121Jpeg w-[312.47px] h-[208.31px] left-[426.77px] top-0 absolute rounded-full" src="/assets/320-1782.webp" />
                 <div data-layer="Strong" data-node-id="320-1783" className="Strong w-[360.48px] h-[106.42px] left-[3px] top-[137.08px] absolute">
                   <div data-layer="「どうせ私には無理でしょ…そんな都合のいい話はない…」と思うなら、このページを閉 じていただいても構いません。あなたの大切なお時間を無駄にさせてしまいますから。" data-node-id="320-1784" className="left-[-3px] top-0 absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">「どうせ私には無理でしょ…そんな都合のいい話はない…」と思うなら、このページを閉<br/>じていただいても構いません。あなたの大切なお時間を無駄にさせてしまいますから。</div>
                 </div>
@@ -973,11 +973,11 @@ export default function Home() {
                 </div>
               </div>
           </div>
-          <img data-layer="Background (3) 1" data-node-id="320-1798" className="Background31 w-[1920px] h-[596px] left-[1px] top-[19168px] absolute" src="/manus-storage/320-1798_942363c7.webp" />
-          <img data-layer="Background (2) 2" data-node-id="319-1097" className="Background22 w-[1920px] h-[3433px] left-[6px] top-[22745px] absolute" src="/manus-storage/319-1097_6c60e4eb.webp" />
-          <img data-layer="Background (1) 2" data-node-id="319-1098" className="Background12 w-[1920px] h-[1508px] left-0 top-[28122px] absolute" src="/manus-storage/319-1098_62cefd57.webp" />
+          <img data-layer="Background (3) 1" data-node-id="320-1798" className="Background31 w-[1920px] h-[596px] left-[1px] top-[19168px] absolute" src="/assets/320-1798.webp" />
+          <img data-layer="Background (2) 2" data-node-id="319-1097" className="Background22 w-[1920px] h-[3433px] left-[6px] top-[22745px] absolute" src="/assets/319-1097.webp" />
+          <img data-layer="Background (1) 2" data-node-id="319-1098" className="Background12 w-[1920px] h-[1508px] left-0 top-[28122px] absolute" src="/assets/319-1098.webp" />
           <div data-layer="Main" data-node-id="319-5" className="Main w-[1920px] h-[39457px] left-0 top-0 absolute">
-            <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="319-16" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[29557.98px] absolute" src="/manus-storage/319-16_25cb6c6b.webp" />
+            <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="319-16" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[29557.98px] absolute" src="/assets/319-16.webp" />
             <div data-layer="Background" data-node-id="319-591" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[21705.14px] absolute bg-[#ff86b4]">
                 <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="319-592" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">予約方法はこちら</div>
                 <div data-layer="List" data-node-id="319-593" className="List w-[768px] h-[65px] left-[576px] top-[102.39px] absolute">
@@ -992,27 +992,27 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-600" className="Container w-[768px] h-[696.84px] left-[576px] top-[207.39px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-601" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-602" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/manus-storage/319-602_75327636.webp" />
+                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-602" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/319-602.webp" />
                   <div data-layer="Background" data-node-id="319-603" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                     <div data-layer="Strong" data-node-id="319-604" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
                       <div data-layer="ホットペッパー予約はこちらから" data-node-id="319-605" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパー予約はこちらから</div>
                       <div data-layer="Mask Group" data-node-id="319-606" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                         <div data-layer="Mask" data-node-id="319-607" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                           <div data-layer="image" data-node-id="319-608" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
-                            <img data-layer="Vector" data-node-id="319-609" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/manus-storage/319-609_4c85258c.svg" />
+                            <img data-layer="Vector" data-node-id="319-609" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/assets/319-609.svg" />
                           </div>
                         </div>
                         <div data-layer="Background" data-node-id="319-610" className="Background w-5 h-9 left-0 top-0 absolute bg-black" />
                       </div>
                     </div>
                   </div>
-                  <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="319-611" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute" src="/manus-storage/319-611_604921fd.webp" />
+                  <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="319-611" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute" src="/assets/319-611.webp" />
                   <div data-layer="Heading 2" data-node-id="319-612" className="Heading2 w-[320.72px] h-[26px] left-[223.64px] top-[33px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                     <div data-layer="LINE簡単予約はこちらをタップ" data-node-id="319-613" className="Line left-[2px] top-[2px] absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">LINE簡単予約はこちらをタップ</div>
                     <div data-layer="Mask Group" data-node-id="319-614" className="MaskGroup w-[20.20px] h-7 left-[296.52px] top-[-1px] absolute">
                       <div data-layer="Mask" data-node-id="319-615" className="Mask w-[20.20px] h-7 left-0 top-0 absolute overflow-hidden">
                         <div data-layer="image" data-node-id="319-616" className="Image w-[20.20px] h-[20.20px] left-0 top-[3.90px] absolute overflow-hidden">
-                          <img data-layer="Vector" data-node-id="319-617" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/manus-storage/319-617_2cceda1e.svg" />
+                          <img data-layer="Vector" data-node-id="319-617" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/assets/319-617.svg" />
                         </div>
                       </div>
                       <div data-layer="Background" data-node-id="319-618" className="Background w-[20.20px] h-7 left-0 top-0 absolute bg-black" />
@@ -1033,34 +1033,34 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="319-628" className="Container w-[768px] h-[696.84px] left-[591px] top-[201px] absolute overflow-hidden">
                     <div data-layer="Background" data-node-id="319-629" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-630" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/manus-storage/319-630_7a97e323.webp" />
+                    <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-630" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/319-630.webp" />
                     <div data-layer="Background" data-node-id="319-631" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                       <div data-layer="Strong" data-node-id="319-632" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
                         <div data-layer="ホットペッパー予約はこちらから" data-node-id="319-633" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">ホットペッパー予約はこちらから</div>
                         <div data-layer="Mask Group" data-node-id="319-634" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                           <div data-layer="Mask" data-node-id="319-635" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                             <div data-layer="image" data-node-id="319-636" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
-                              <img data-layer="Vector" data-node-id="319-637" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/manus-storage/319-637_55a990f2.svg" />
+                              <img data-layer="Vector" data-node-id="319-637" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/assets/319-637.svg" />
                             </div>
                           </div>
                           <div data-layer="Background" data-node-id="319-638" className="Background w-5 h-9 left-0 top-0 absolute bg-black" />
                         </div>
                       </div>
                     </div>
-                    <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="319-639" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute overflow-hidden" src="/manus-storage/319-639_e0d77da1.webp" />
+                    <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="319-639" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute overflow-hidden" src="/assets/319-639.webp" />
                     <div data-layer="Heading 2" data-node-id="319-642" className="Heading2 w-[315px] h-[23px] left-[222px] top-[24px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                       <div data-layer="LINE簡単予約はこちらをタップ" data-node-id="319-643" className="Line left-0 top-[2px] absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">LINE簡単予約はこちらをタップ</div>
                       <div data-layer="Mask Group" data-node-id="319-644" className="MaskGroup w-[20.20px] h-7 left-[294.52px] top-[-1px] absolute">
                         <div data-layer="Mask" data-node-id="319-645" className="Mask w-[20.20px] h-7 left-0 top-0 absolute overflow-hidden">
                           <div data-layer="image" data-node-id="319-646" className="Image w-[20.20px] h-[20.20px] left-0 top-[3.90px] absolute overflow-hidden">
-                            <img data-layer="Vector" data-node-id="319-647" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/manus-storage/319-647_9bedac30.svg" />
+                            <img data-layer="Vector" data-node-id="319-647" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/assets/319-647.svg" />
                           </div>
                         </div>
                         <div data-layer="Background" data-node-id="319-648" className="Background w-[20.20px] h-7 left-0 top-0 absolute bg-black" />
                       </div>
                     </div>
                   </div>
-                  <img data-layer="Container 3" data-node-id="319-649" className="Container3 w-[768px] h-[697px] left-[591px] top-[200px] absolute" src="/manus-storage/319-649_b843e64b.webp" />
+                  <img data-layer="Container 3" data-node-id="319-649" className="Container3 w-[768px] h-[697px] left-[591px] top-[200px] absolute" src="/assets/319-649.webp" />
                 </div>
               </div>
             <div data-layer="Background" data-node-id="319-650" className="Background w-[1920px] h-[3432.06px] left-[0.00px] top-[22641.38px] absolute bg-[#ffe9f6]">
@@ -1076,7 +1076,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-658" className="Container w-[768px] h-[430px] left-[576px] top-[198.06px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-659" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → 191.webp" data-node-id="319-660" className="Figure191Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/manus-storage/319-660_3718182d.webp" />
+                  <img data-layer="Figure → 191.webp" data-node-id="319-660" className="Figure191Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/assets/319-660.webp" />
                   <div data-layer="Strong → 運動や施術を一生続けられる人はいません。" data-node-id="319-661" className="Strong left-[282.67px] top-[173.92px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">運動や施術を一生続けられる人はいません。</div>
                   <div data-layer="Strong" data-node-id="319-662" className="Strong w-[445.20px] h-[46.59px] left-[282.67px] top-[213.51px] absolute">
                     <div data-layer="極端に言えば、" data-node-id="319-663" className="left-0 top-[2px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">極端に言えば、</div>
@@ -1102,7 +1102,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-677" className="Container w-[768px] h-[430px] left-[576px] top-[660.06px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-678" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → reason2.webp" data-node-id="319-679" className="FigureReason2Webp w-[226.66px] h-[151.11px] left-[32px] top-[225.94px] absolute" src="/manus-storage/319-679_47b61705.webp" />
+                  <img data-layer="Figure → reason2.webp" data-node-id="319-679" className="FigureReason2Webp w-[226.66px] h-[151.11px] left-[32px] top-[225.94px] absolute" src="/assets/319-679.webp" />
                   <div data-layer="Strong" data-node-id="319-680" className="Strong w-[296.13px] h-[21px] left-[282.67px] top-[218.72px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                     <div data-layer="人にはそれぞれ肥満の原因が違います。" data-node-id="319-681" className="left-[2px] top-[2px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">人にはそれぞれ肥満の原因が違います。</div>
                   </div>
@@ -1124,7 +1124,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-693" className="Container w-[768px] h-[430px] left-[576px] top-[1122.06px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-694" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → 1940282671-huge-scaled-3.jpg" data-node-id="319-695" className="Figure1940282671HugeScaled3Jpg w-[226.66px] h-[127.50px] left-[32px] top-[219.75px] absolute" src="/manus-storage/319-695_8bd8738e.webp" />
+                  <img data-layer="Figure → 1940282671-huge-scaled-3.jpg" data-node-id="319-695" className="Figure1940282671HugeScaled3Jpg w-[226.66px] h-[127.50px] left-[32px] top-[219.75px] absolute" src="/assets/319-695.webp" />
                   <div data-layer="Strong → ダイエットが続かない、三日坊主で終わってしまう一番の原&#10;因は「やったのに結果が出ない」というものです。" data-node-id="319-696" className="Strong left-[282.67px] top-[202.72px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">ダイエットが続かない、三日坊主で終わってしまう一番の原<br/>因は「やったのに結果が出ない」というものです。</div>
                   <div data-layer="Strong" data-node-id="319-697" className="Strong w-[440.75px] h-[97.78px] left-[282.67px] top-[267.90px] absolute">
                     <div data-layer="逆に言うとすぐに結果が出たら続けられるんです。" data-node-id="319-698" className="left-0 top-[2px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">逆に言うとすぐに結果が出たら続けられるんです。</div>
@@ -1142,7 +1142,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-706" className="Container w-[768px] h-[430px] left-[576px] top-[1584.06px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-707" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → 193.webp" data-node-id="319-708" className="Figure193Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/manus-storage/319-708_798d48dc.webp" />
+                  <img data-layer="Figure → 193.webp" data-node-id="319-708" className="Figure193Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/assets/319-708.webp" />
                   <div data-layer="Strong" data-node-id="319-709" className="Strong w-[439.13px] h-[44.59px] left-[282.67px] top-[189.92px] absolute">
                     <div data-layer="「骨盤矯正ダイエット」って聞いたことありますか？はっき り言います。" data-node-id="319-710" className="left-0 top-0 absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">「骨盤矯正ダイエット」って聞いたことありますか？はっき<br/>り言います。</div>
                     <div data-layer="Background" data-node-id="319-711" className="Background w-[280.13px] h-[21px] left-[97.50px] top-[23.59px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
@@ -1166,7 +1166,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-723" className="Container w-[768px] h-[430px] left-[576px] top-[2046.06px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-724" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → 197.webp" data-node-id="319-725" className="Figure197Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/manus-storage/319-725_39796fa1.webp" />
+                  <img data-layer="Figure → 197.webp" data-node-id="319-725" className="Figure197Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/assets/319-725.webp" />
                   <div data-layer="Strong → 「停滞期が続き、ダイエット諦めた」" data-node-id="319-726" className="Strong left-[282.67px] top-[194.72px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">「停滞期が続き、ダイエット諦めた」</div>
                   <div data-layer="Strong → このような経験はありませんか？" data-node-id="319-727" className="Strong left-[282.67px] top-[236.31px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">このような経験はありませんか？</div>
                   <div data-layer="Strong" data-node-id="319-728" className="Strong w-[440px] h-[97.78px] left-[282.67px] top-[275.90px] absolute">
@@ -1185,7 +1185,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-737" className="Container w-[768px] h-[430px] left-[576px] top-[2508.06px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-738" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → 192.webp" data-node-id="319-739" className="Figure192Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/manus-storage/319-739_cf891add.webp" />
+                  <img data-layer="Figure → 192.webp" data-node-id="319-739" className="Figure192Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/assets/319-739.webp" />
                   <div data-layer="Strong" data-node-id="319-740" className="Strong w-[444.25px] h-[70.19px] left-[282.67px] top-[195.92px] absolute">
                     <div data-layer="Background" data-node-id="319-741" className="Background w-[232.13px] h-[21px] left-0 top-0 absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                       <div data-layer="ダイエットは一人では続かない" data-node-id="319-742" className="left-[2px] top-[2px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">ダイエットは一人では続かない</div>
@@ -1210,7 +1210,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-755" className="Container w-[768px] h-[430px] left-[576px] top-[2970.06px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-756" className="Background w-[768px] h-[430px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → 198.webp" data-node-id="319-757" className="Figure198Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/manus-storage/319-757_b3135cb8.webp" />
+                  <img data-layer="Figure → 198.webp" data-node-id="319-757" className="Figure198Webp w-[226.67px] h-[151.11px] left-[32px] top-[207.94px] absolute" src="/assets/319-757.webp" />
                   <div data-layer="Strong → 多くの整体院やエステサロン・トレーニングジムでは、複数&#10;の先生が務めていて通院されるたび に毎回担当が違い、状況&#10;を何度も説明しなくてはならない。" data-node-id="319-758" className="Strong left-[282.67px] top-[194.72px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">多くの整体院やエステサロン・トレーニングジムでは、複数<br/>の先生が務めていて通院されるたび に毎回担当が違い、状況<br/>を何度も説明しなくてはならない。</div>
                   <div data-layer="Strong → こんな経験をされたことはないでしょうか？" data-node-id="319-759" className="Strong left-[282.67px] top-[287.50px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">こんな経験をされたことはないでしょうか？</div>
                   <div data-layer="Strong" data-node-id="319-760" className="Strong w-[440.38px] h-[46.59px] left-[282.67px] top-[327.09px] absolute">
@@ -1229,13 +1229,13 @@ export default function Home() {
                 </div>
               </div>
             <div data-layer="Background" data-node-id="319-769" className="Background w-[1920px] h-[1722px] left-[0.00px] top-[26073.44px] absolute bg-[#fff2f7]">
-                <img data-layer="Figure → reason05.jpg" data-node-id="319-770" className="FigureReason05Jpg w-[767.98px] h-[844.80px] left-[576px] top-[32px] absolute" src="/manus-storage/319-770_760ee6f3.webp" />
-                <img data-layer="Figure → reason123.png" data-node-id="319-771" className="FigureReason123Png w-[767.98px] h-[704.41px] left-[576px] top-[892.79px] absolute" src="/manus-storage/319-771_70525935.webp" />
+                <img data-layer="Figure → reason05.jpg" data-node-id="319-770" className="FigureReason05Jpg w-[767.98px] h-[844.80px] left-[576px] top-[32px] absolute" src="/assets/319-770.webp" />
+                <img data-layer="Figure → reason123.png" data-node-id="319-771" className="FigureReason123Png w-[767.98px] h-[704.41px] left-[576px] top-[892.79px] absolute" src="/assets/319-771.webp" />
                 <div data-layer="※効果には個人差があります。" data-node-id="319-772" className="left-[1174.03px] top-[1637.20px] absolute text-right justify-center text-[#333333] text-xs font-light font-['Hiragino_Kaku_Gothic_ProN']">※効果には個人差があります。</div>
               </div>
             <div data-layer="Background" data-node-id="319-773" className="Background w-[1920px] h-[1507.44px] left-[0.00px] top-[28002.55px] absolute bg-[#f7f7f7]">
                 <div data-layer="Heading 2 → Strong → 代表の想い" data-node-id="319-774" className="Heading2Strong left-[878.75px] top-[68px] absolute text-center justify-center text-[#333333] text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">代表の想い</div>
-                <img data-layer="Figure → 199.webp" data-node-id="319-775" className="Figure199Webp w-[312.47px] h-[208.31px] left-[605.77px] top-[140.79px] absolute" src="/manus-storage/319-775_69f42269.webp" />
+                <img data-layer="Figure → 199.webp" data-node-id="319-775" className="Figure199Webp w-[312.47px] h-[208.31px] left-[605.77px] top-[140.79px] absolute" src="/assets/319-775.webp" />
                 <div data-layer="Heading 2 → Strong → ビオ整体院に通って、" data-node-id="319-776" className="Heading2Strong left-[972px] top-[143.79px] absolute justify-center text-[#333333] text-[22.40px] font-light font-['Hiragino_Kaku_Gothic_ProN']">ビオ整体院に通って、</div>
                 <div data-layer="Heading 2 → Strong → Mark → ”人生が変わった”" data-node-id="319-777" className="Heading2StrongMark left-[972px] top-[186.34px] absolute justify-center text-[#ff2678] text-[22.40px] font-light font-['Hiragino_Kaku_Gothic_ProN']">”人生が変わった”</div>
                 <div data-layer="Heading 2 → Strong → これが私が目指す整体院の形です → これが私が目指す整体院の形です。" data-node-id="319-778" className="Heading2Strong left-[972px] top-[225.89px] absolute justify-center text-[#333333] text-[22.40px] font-light font-['Hiragino_Kaku_Gothic_ProN']">これが私が目指す整体院の形です。</div>
@@ -1263,7 +1263,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Strong → Strong → Strong → あなたのダイエットを徹底サポート" data-node-id="319-972" className="StrongStrongStrong left-[231.61px] top-[86.06px] absolute text-center justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">あなたのダイエットを徹底サポート！</div>
               </div>
-            <img data-layer="769×627 CTA 3" data-node-id="319-1083" className="627Cta3 w-[769px] h-[627px] left-[575.00px] top-[29558px] absolute" src="/manus-storage/319-1083_99c6682d.webp" />
+            <img data-layer="769×627 CTA 3" data-node-id="319-1083" className="627Cta3 w-[769px] h-[627px] left-[575.00px] top-[29558px] absolute" src="/assets/319-1083.webp" />
           </div>
           <div data-layer="Main" data-node-id="325-1809" className="Main w-[1920px] h-[39457px] left-0 top-0 absolute">
             <div data-layer="Background" data-node-id="325-2012" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[30216.98px] absolute bg-[#ff86b4]">
@@ -1280,34 +1280,34 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="325-2021" className="Container w-[768px] h-[696.84px] left-[576px] top-[207.40px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="325-2022" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="325-2023" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/manus-storage/325-2023_b0cb9346.webp" />
+                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="325-2023" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/325-2023.webp" />
                   <div data-layer="Background" data-node-id="325-2024" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                     <div data-layer="Strong" data-node-id="325-2025" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
                       <div data-layer="ホットペッパー予約はこちらから" data-node-id="325-2026" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパー予約はこちらから</div>
                       <div data-layer="Mask Group" data-node-id="325-2027" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                         <div data-layer="Mask" data-node-id="325-2028" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                           <div data-layer="image" data-node-id="325-2029" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
-                            <img data-layer="Vector" data-node-id="325-2030" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/manus-storage/325-2030_67bc36ad.svg" />
+                            <img data-layer="Vector" data-node-id="325-2030" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/assets/325-2030.svg" />
                           </div>
                         </div>
                         <div data-layer="Background" data-node-id="325-2031" className="Background w-5 h-9 left-0 top-0 absolute bg-black" />
                       </div>
                     </div>
                   </div>
-                  <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="325-2032" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute" src="/manus-storage/325-2032_98e9fb8f.webp" />
+                  <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="325-2032" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute" src="/assets/325-2032.webp" />
                   <div data-layer="Heading 2" data-node-id="325-2033" className="Heading2 w-[320.72px] h-[26px] left-[223.64px] top-[33px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                     <div data-layer="LINE簡単予約はこちらをタップ" data-node-id="325-2034" className="Line left-[2px] top-[2px] absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">LINE簡単予約はこちらをタップ</div>
                     <div data-layer="Mask Group" data-node-id="325-2035" className="MaskGroup w-[20.20px] h-7 left-[296.52px] top-[-1px] absolute">
                       <div data-layer="Mask" data-node-id="325-2036" className="Mask w-[20.20px] h-7 left-0 top-0 absolute overflow-hidden">
                         <div data-layer="image" data-node-id="325-2037" className="Image w-[20.20px] h-[20.20px] left-0 top-[3.90px] absolute overflow-hidden">
-                          <img data-layer="Vector" data-node-id="325-2038" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/manus-storage/325-2038_5aeee7f3.svg" />
+                          <img data-layer="Vector" data-node-id="325-2038" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/assets/325-2038.svg" />
                         </div>
                       </div>
                       <div data-layer="Background" data-node-id="325-2039" className="Background w-[20.20px] h-7 left-0 top-0 absolute bg-black" />
                     </div>
                   </div>
                 </div>
-                <img data-layer="Container 2" data-node-id="325-2040" className="Container2 w-[768px] h-[697px] left-[576px] top-[207.02px] absolute" src="/manus-storage/325-2040_71b1221a.webp" />
+                <img data-layer="Container 2" data-node-id="325-2040" className="Container2 w-[768px] h-[697px] left-[576px] top-[207.02px] absolute" src="/assets/325-2040.webp" />
               </div>
             <div data-layer="Background" data-node-id="325-2041" className="Background w-[1920px] h-[2246.42px] left-[0.00px] top-[31153.22px] absolute bg-[#fff2f7]">
                 <div data-layer="カウンセリング" data-node-id="325-2042" className="left-[640px] top-[121.80px] absolute justify-center text-[#333333] text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">カウンセリング</div>
@@ -1318,7 +1318,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Background" data-node-id="325-2047" className="Background w-[704px] h-[234.78px] left-[640px] top-[172.80px] absolute bg-white">
                   <div data-layer="Overlay+Shadow" data-node-id="325-2048" className="OverlayShadow w-[704px] h-[234.78px] left-0 top-0 absolute bg-white/0 shadow-[0px_4px_4px_-4px_rgba(0,0,0,0.10)] shadow-[0px_2px_4px_0px_rgba(0,0,0,0.05)]" />
-                  <img data-layer="Figure → 531A9528-1024x683.jpg" data-node-id="325-2049" className="Figure531a95281024x683Jpg w-[352px] h-[234.78px] left-0 top-0 absolute" src="/manus-storage/325-2049_b5073ece.webp" />
+                  <img data-layer="Figure → 531A9528-1024x683.jpg" data-node-id="325-2049" className="Figure531a95281024x683Jpg w-[352px] h-[234.78px] left-0 top-0 absolute" src="/assets/325-2049.webp" />
                   <div data-layer="Strong → お客様お一人お一人に合った、 ダイエッ&#10;トプランを作成するため、目標体重・期&#10;日は勿論、病歴やアレルギーなどをお聞&#10;きし、私の分子栄養学の臨床に適合させ&#10;てプランを考えてまいります。" data-node-id="325-2050" className="Strong left-[376px] top-[50.39px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">お客様お一人お一人に合った、 ダイエッ<br/>トプランを作成するため、目標体重・期<br/>日は勿論、病歴やアレルギーなどをお聞<br/>きし、私の分子栄養学の臨床に適合させ<br/>てプランを考えてまいります。</div>
                 </div>
                 <div data-layer="測定" data-node-id="325-2051" className="left-[640px] top-[468.58px] absolute justify-center text-[#333333] text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">測定</div>
@@ -1329,7 +1329,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Background" data-node-id="325-2056" className="Background w-[704px] h-[234.66px] left-[640px] top-[519.58px] absolute bg-white">
                   <div data-layer="Overlay+Shadow" data-node-id="325-2057" className="OverlayShadow w-[704px] h-[234.66px] left-0 top-0 absolute bg-white/0 shadow-[0px_4px_4px_-4px_rgba(0,0,0,0.10)] shadow-[0px_2px_4px_0px_rgba(0,0,0,0.05)]" />
-                  <img data-layer="Figure → 6-2.webp" data-node-id="325-2058" className="Figure62Webp w-[352px] h-[234.66px] left-0 top-0 absolute" src="/manus-storage/325-2058_acd02acc.webp" />
+                  <img data-layer="Figure → 6-2.webp" data-node-id="325-2058" className="Figure62Webp w-[352px] h-[234.66px] left-0 top-0 absolute" src="/assets/325-2058.webp" />
                   <div data-layer="Strong" data-node-id="325-2059" className="Strong w-[295.83px] h-[103.39px] left-[376px] top-[64.73px] absolute">
                     <div data-layer="まず大事なのは、ご自身の現状を 把握す ることです。それを踏まえて、" data-node-id="325-2060" className="left-0 top-0 absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">まず大事なのは、ご自身の現状を 把握す<br/>ることです。それを踏まえて、</div>
                     <div data-layer="Paragraph+Background" data-node-id="325-2061" className="ParagraphBackground w-[294.13px] h-[49.80px] left-0 top-[26.80px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
@@ -1347,7 +1347,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Background" data-node-id="325-2070" className="Background w-[704px] h-[249.58px] left-[640px] top-[866.23px] absolute bg-white">
                   <div data-layer="Overlay+Shadow" data-node-id="325-2071" className="OverlayShadow w-[704px] h-[249.58px] left-0 top-0 absolute bg-white/0 shadow-[0px_4px_4px_-4px_rgba(0,0,0,0.10)] shadow-[0px_2px_4px_0px_rgba(0,0,0,0.05)]" />
-                  <img data-layer="Figure → 193-1.webp" data-node-id="325-2072" className="Figure1931Webp w-[352px] h-[249.58px] left-0 top-0 absolute" src="/manus-storage/325-2072_a72c82ec.webp" />
+                  <img data-layer="Figure → 193-1.webp" data-node-id="325-2072" className="Figure1931Webp w-[352px] h-[249.58px] left-0 top-0 absolute" src="/assets/325-2072.webp" />
                   <div data-layer="Strong → 「骨盤矯正ダイエット」って 聞いたこと&#10;ありますか? はっきり言いますが、じつ&#10;は、&#10;骨盤矯正をしただけでは痩せません !&#10;しかし、当院のダイエットの効果を最大&#10;限引き出すためには絶対に必要な施術に&#10;なります。" data-node-id="325-2073" className="Strong left-[376px] top-[29px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">「骨盤矯正ダイエット」って 聞いたこと<br/>ありますか? はっきり言いますが、じつ<br/>は、<br/>骨盤矯正をしただけでは痩せません !<br/>しかし、当院のダイエットの効果を最大<br/>限引き出すためには絶対に必要な施術に<br/>なります。</div>
                 </div>
                 <div data-layer="食事指導" data-node-id="325-2074" className="left-[640px] top-[1176.81px] absolute justify-center text-[#333333] text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">食事指導</div>
@@ -1358,7 +1358,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Background" data-node-id="325-2079" className="Background w-[704px] h-[249.58px] left-[640px] top-[1227.81px] absolute bg-white">
                   <div data-layer="Overlay+Shadow" data-node-id="325-2080" className="OverlayShadow w-[704px] h-[249.58px] left-0 top-0 absolute bg-white/0 shadow-[0px_4px_4px_-4px_rgba(0,0,0,0.10)] shadow-[0px_2px_4px_0px_rgba(0,0,0,0.05)]" />
-                  <img data-layer="Figure → 5.webp" data-node-id="325-2081" className="Figure5Webp w-[352px] h-[249.58px] left-0 top-0 absolute" src="/manus-storage/325-2081_6ad290e8.webp" />
+                  <img data-layer="Figure → 5.webp" data-node-id="325-2081" className="Figure5Webp w-[352px] h-[249.58px] left-0 top-0 absolute" src="/assets/325-2081.webp" />
                   <div data-layer="Strong → 健康的に痩せるためには、栄養学の知識&#10;が必要不可欠です。&#10;しかし、栄養学で痩せることはできませ&#10;ん。分子栄養学と言う学問の知識が必要&#10;不可欠です。&#10;分子栄養学を元にあなたに必要な栄養素&#10;をお伝えしていきます。" data-node-id="325-2082" className="Strong left-[376px] top-[29px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">健康的に痩せるためには、栄養学の知識<br/>が必要不可欠です。<br/>しかし、栄養学で痩せることはできませ<br/>ん。分子栄養学と言う学問の知識が必要<br/>不可欠です。<br/>分子栄養学を元にあなたに必要な栄養素<br/>をお伝えしていきます。</div>
                 </div>
                 <div data-layer="ダイエットアドバイス&amp;計画作成" data-node-id="325-2083" className="left-[640px] top-[1538.39px] absolute justify-center text-[#333333] text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">ダイエットアドバイス&計画作成</div>
@@ -1369,7 +1369,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Background" data-node-id="325-2088" className="Background w-[704px] h-[234.66px] left-[640px] top-[1589.39px] absolute bg-white">
                   <div data-layer="Overlay+Shadow" data-node-id="325-2089" className="OverlayShadow w-[704px] h-[234.66px] left-0 top-0 absolute bg-white/0 shadow-[0px_4px_4px_-4px_rgba(0,0,0,0.10)] shadow-[0px_2px_4px_0px_rgba(0,0,0,0.05)]" />
-                  <img data-layer="Figure → 191.webp" data-node-id="325-2090" className="Figure191Webp w-[352px] h-[234.66px] left-0 top-0 absolute" src="/manus-storage/325-2090_f7408850.webp" />
+                  <img data-layer="Figure → 191.webp" data-node-id="325-2090" className="Figure191Webp w-[352px] h-[234.66px] left-0 top-0 absolute" src="/assets/325-2090.webp" />
                   <div data-layer="Strong → カウンセリンング、検査結果を元に、何&#10;が原因で太りやすくなっているかをより&#10;明確にし、ダイエット成功のアドバイス&#10;を行い、人生最後のダイエットプランを&#10;作ります。" data-node-id="325-2091" className="Strong left-[376px] top-[50.33px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">カウンセリンング、検査結果を元に、何<br/>が原因で太りやすくなっているかをより<br/>明確にし、ダイエット成功のアドバイス<br/>を行い、人生最後のダイエットプランを<br/>作ります。</div>
                 </div>
                 <div data-layer="人生最後のダイエットスタート" data-node-id="325-2092" className="left-[640px] top-[1885.05px] absolute justify-center text-[#333333] text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">人生最後のダイエットスタート</div>
@@ -1379,7 +1379,7 @@ export default function Home() {
                 </div>
                 <div data-layer="Background" data-node-id="325-2096" className="Background w-[704px] h-[278.38px] left-[640px] top-[1936.05px] absolute bg-white">
                   <div data-layer="Overlay+Shadow" data-node-id="325-2097" className="OverlayShadow w-[704px] h-[278.38px] left-0 top-0 absolute bg-white/0 shadow-[0px_4px_4px_-4px_rgba(0,0,0,0.10)] shadow-[0px_2px_4px_0px_rgba(0,0,0,0.05)]" />
-                  <img data-layer="Figure → 192.webp" data-node-id="325-2098" className="Figure192Webp w-[352px] h-[278.38px] left-0 top-0 absolute" src="/manus-storage/325-2098_1d7b5932.webp" />
+                  <img data-layer="Figure → 192.webp" data-node-id="325-2098" className="Figure192Webp w-[352px] h-[278.38px] left-0 top-0 absolute" src="/assets/325-2098.webp" />
                   <div data-layer="Strong → 初回のカウンセリングなどを踏まえダイ&#10;エット計画をお話させていただき、ご納&#10;得いただいてからダイエットコースの施&#10;術を行なっていきます！当院の人生最後&#10;のダイエットコースを「ぜひやってみた&#10;い！」思っていただいた方のみのご案内&#10;となりますので、お気軽にお越しくださ&#10;い。" data-node-id="325-2099" className="Strong left-[376px] top-[29px] absolute justify-center text-[#333333] text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">初回のカウンセリングなどを踏まえダイ<br/>エット計画をお話させていただき、ご納<br/>得いただいてからダイエットコースの施<br/>術を行なっていきます！当院の人生最後<br/>のダイエットコースを「ぜひやってみた<br/>い！」思っていただいた方のみのご案内<br/>となりますので、お気軽にお越しくださ<br/>い。</div>
                 </div>
                 <div data-layer="Heading 2 → 申し込み後の流れ" data-node-id="325-2100" className="Heading2 left-[829.69px] top-[36px] absolute text-center justify-center text-[#ff2678] text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">申し込み後の流れ</div>
@@ -1428,7 +1428,7 @@ export default function Home() {
                   <div data-layer="Heading 2 → Strong → 来院経路" data-node-id="325-2132" className="Heading2Strong left-[895.59px] top-[36px] absolute text-center justify-center text-[#333333] text-[32px] font-bold font-['Noto_Sans_JP']">来院経路</div>
                   <div data-layer="Mask group" data-node-id="325-2133" className="MaskGroup w-[769px] h-[512px] left-[576px] top-[232.56px] absolute">
                     <div data-layer="Rectangle 8" data-node-id="325-2134" className="Rectangle8 w-[769px] h-[512px] left-0 top-0 absolute bg-[#d9d9d9]" />
-                    <img data-layer="スクリーンショット 2026-05-18 15.07.26 1" data-node-id="325-2135" className="202605181507261 w-[769px] h-[587px] left-0 top-[-58.50px] absolute" src="/manus-storage/325-2135_69949096.webp" />
+                    <img data-layer="スクリーンショット 2026-05-18 15.07.26 1" data-node-id="325-2135" className="202605181507261 w-[769px] h-[587px] left-0 top-[-58.50px] absolute" src="/assets/325-2135.webp" />
                   </div>
                 </div>
               </div>
@@ -1533,7 +1533,7 @@ export default function Home() {
                   <div data-layer="ダイエットのプロとしての証である資格を保有し、数多くのお客様から支持され、あなたの悩み に真正面から向き合う、ビオ整体院に来院し、健康と美容の先にある理想の自分を叶えて心から 思いっきり楽しめる人生を手に入れる道。" data-node-id="325-2213" className="left-[32px] top-[73px] absolute justify-center text-black text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">ダイエットのプロとしての証である資格を保有し、数多くのお客様から支持され、あなたの悩み<br/>に真正面から向き合う、ビオ整体院に来院し、健康と美容の先にある理想の自分を叶えて心から<br/>思いっきり楽しめる人生を手に入れる道。</div>
                 </div>
               </div>
-            <img data-layer="Figure → image" data-node-id="325-2214" className="FigureImage w-[800px] h-[800px] left-[560.00px] top-[37137.48px] absolute overflow-hidden" src="/manus-storage/325-2214_c5c91ef2.webp" />
+            <img data-layer="Figure → image" data-node-id="325-2214" className="FigureImage w-[800px] h-[800px] left-[560.00px] top-[37137.48px] absolute overflow-hidden" src="/assets/325-2214.webp" />
             <div data-layer="Background" data-node-id="325-2218" className="Background w-[1920px] h-[924px] left-[0.00px] top-[37969px] absolute bg-[#ff86b4]">
                 <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="325-2219" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">予約方法はこちら</div>
                 <div data-layer="List" data-node-id="325-2220" className="List w-[768px] h-[65px] left-[576px] top-[102.40px] absolute">
@@ -1557,7 +1557,7 @@ export default function Home() {
                 <div data-layer="があります" data-node-id="325-2233" className="left-[448.30px] top-[10px] absolute text-center justify-center text-[#333333] text-[25.60px] font-light font-['Hiragino_Kaku_Gothic_ProN']">があります</div>
               </div>
           </div>
-          <img data-layer="Background 3" data-node-id="325-2237" className="Background3 w-[1920px] h-[2247px] left-0 top-[31153px] absolute" src="/manus-storage/325-2237_acd36ab3.webp" />
+          <img data-layer="Background 3" data-node-id="325-2237" className="Background3 w-[1920px] h-[2247px] left-0 top-[31153px] absolute" src="/assets/325-2237.webp" />
           <div data-layer="Background" data-node-id="325-2238" className="Background w-[1920px] h-[936.23px] left-0 top-[38077px] absolute bg-[#ff86b4]">
               <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="325-2239" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-bold font-['Noto_Sans_JP']">予約方法はこちら</div>
               <div data-layer="List" data-node-id="325-2240" className="List w-[768px] h-[65px] left-[576px] top-[102.40px] absolute">
@@ -1572,33 +1572,33 @@ export default function Home() {
               </div>
               <div data-layer="Container" data-node-id="325-2247" className="Container w-[768px] h-[696.84px] left-[576px] top-[201px] absolute overflow-hidden">
                 <div data-layer="Background" data-node-id="325-2248" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="325-2249" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[51px] absolute" src="/manus-storage/325-2249_8b257f77.webp" />
+                <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="325-2249" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[51px] absolute" src="/assets/325-2249.webp" />
                 <div data-layer="Background" data-node-id="325-2250" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                   <div data-layer="Strong" data-node-id="325-2251" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
                     <div data-layer="ホットペッパー予約はこちらから" data-node-id="325-2252" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">ホットペッパー予約はこちらから</div>
                     <div data-layer="Mask Group" data-node-id="325-2253" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                       <div data-layer="Mask" data-node-id="325-2254" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                         <div data-layer="image" data-node-id="325-2255" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
-                          <img data-layer="Vector" data-node-id="325-2256" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/manus-storage/325-2256_1d2c5493.svg" />
+                          <img data-layer="Vector" data-node-id="325-2256" className="Vector w-[12.25px] h-[7.06px] left-[3.88px] top-[6.88px] absolute" src="/assets/325-2256.svg" />
                         </div>
                       </div>
                       <div data-layer="Background" data-node-id="325-2257" className="Background w-5 h-9 left-0 top-0 absolute bg-black" />
                     </div>
                   </div>
                 </div>
-                <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="325-2258" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute overflow-hidden" src="/manus-storage/325-2258_2f09735f.webp" />
+                <img data-layer="Figure → Link → hpb-banner-1.webp" data-node-id="325-2258" className="FigureLinkHpbBanner1Webp w-[704px] h-[231.78px] left-[32px] top-[433.06px] absolute overflow-hidden" src="/assets/325-2258.webp" />
                 <div data-layer="Heading 2" data-node-id="325-2261" className="Heading2 w-[315px] h-[23px] left-[222px] top-[24px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                   <div data-layer="LINE簡単予約はこちらをタップ" data-node-id="325-2262" className="Line left-0 top-[2px] absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">LINE簡単予約はこちらをタップ</div>
                   <div data-layer="Mask Group" data-node-id="325-2263" className="MaskGroup w-[20.20px] h-7 left-[294.52px] top-[-1px] absolute">
                     <div data-layer="Mask" data-node-id="325-2264" className="Mask w-[20.20px] h-7 left-0 top-0 absolute overflow-hidden">
                       <div data-layer="image" data-node-id="325-2265" className="Image w-[20.20px] h-[20.20px] left-0 top-[3.90px] absolute overflow-hidden">
-                        <img data-layer="Vector" data-node-id="325-2266" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/manus-storage/325-2266_8c728682.svg" />
+                        <img data-layer="Vector" data-node-id="325-2266" className="Vector w-[12.37px] h-[7.13px] left-[3.91px] top-[6.94px] absolute" src="/assets/325-2266.svg" />
                       </div>
                     </div>
                     <div data-layer="Background" data-node-id="325-2267" className="Background w-[20.20px] h-7 left-0 top-0 absolute bg-black" />
                   </div>
                 </div>
-                <img data-layer="Container 1" data-node-id="325-2268" className="Container1 w-[768px] h-[697px] left-0 top-[-1px] absolute" src="/manus-storage/325-2268_c7a7d548.webp" />
+                <img data-layer="Container 1" data-node-id="325-2268" className="Container1 w-[768px] h-[697px] left-0 top-[-1px] absolute" src="/assets/325-2268.webp" />
               </div>
             </div>
           <div data-layer="Footer" data-node-id="325-2269" className="Footer w-[1920px] h-[51.19px] left-0 top-[39040px] absolute bg-[#fce0e0]">
