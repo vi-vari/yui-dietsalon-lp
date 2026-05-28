@@ -167,7 +167,7 @@ export default function Home() {
                     <div data-layer="LINEは２４時間予約可能。" data-node-id="316-98" className="Line left-0 top-[4px] absolute justify-center text-white text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">LINEは２４時間予約可能。</div>
                   </div>
                 </div>
-                <div data-layer="Container" data-node-id="316-99" className="Container w-[768px] h-[696.84px] left-[576px] top-[9820.00px] absolute overflow-hidden">
+                <div data-layer="Container" data-node-id="316-99" className="Container w-[768px] h-[696.84px] left-[576px] top-[9820.00px] absolute overflow-hidden z-50">
                   <div data-layer="Background" data-node-id="316-100" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
                   <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-101" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/316-101.webp" />
                   <div data-layer="Background" data-node-id="316-102" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
@@ -364,7 +364,7 @@ export default function Home() {
                 <div data-layer="Strong" data-node-id="320-1317" className="Strong w-[762.69px] h-[85.31px] left-[576px] top-[37px] absolute">
                   <div data-layer="実はこのような 「 決してムキムキって訳ではないけど、無駄な脂肪がない健康的なスリムな体 型 」 というのは、必ずしも" data-node-id="320-1318" className="left-0 top-0 absolute justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">実はこのような 「 決してムキムキって訳ではないけど、無駄な脂肪がない健康的なスリムな体<br/>型 」 というのは、必ずしも</div>
                   <div data-layer="Mark" data-node-id="320-1319" className="Mark w-[640px] h-[45px] left-[65px] top-[35px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
-                    <div data-layer="キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！" data-node-id="320-1320" className="left-[226.20px] top-[2px] absolute justify-center text-[#ff2678] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN'] whitespace-nowrap">キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！</div>
+                    <div data-layer="キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！" data-node-id="320-1320" className="left-[20px] top-[2px] absolute justify-center text-[#ff2678] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN'] whitespace-nowrap">キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！</div>
                     
                   </div>
                 </div>
@@ -410,7 +410,7 @@ export default function Home() {
                   <div data-layer="Strong" data-node-id="320-1352" className="Strong w-[762.69px] h-[85.31px] left-[576px] top-[37px] absolute">
                     <div data-layer="実はこのような 「 決してムキムキって訳ではないけど、無駄な脂肪がない健康的なスリムな体 型 」 というのは、必ずしも" data-node-id="320-1353" className="left-0 top-0 absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">実はこのような 「 決してムキムキって訳ではないけど、無駄な脂肪がない健康的なスリムな体<br/>型 」 というのは、必ずしも</div>
                     <div data-layer="Mark" data-node-id="320-1354" className="Mark w-[640px] h-[45px] left-[65px] top-[35px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
-                      <div data-layer="キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！" data-node-id="320-1355" className="left-0 top-[36px] absolute justify-center text-[#ff2678] text-lg font-bold font-['Noto_Sans_JP'] whitespace-nowrap">キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！</div>
+                      <div data-layer="キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！" data-node-id="320-1355" className="left-[20px] top-[36px] absolute justify-center text-[#ff2678] text-lg font-bold font-['Noto_Sans_JP'] whitespace-nowrap">キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！</div>
                     </div>
                     <div data-layer="Mark" data-node-id="320-1356" className="Mark w-[90px] h-14 left-0 top-[31.59px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                       
@@ -995,7 +995,7 @@ export default function Home() {
                     <div data-layer="LINEは２４時間予約可能。" data-node-id="319-599" className="Line left-0 top-[4px] absolute justify-center text-white text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">LINEは２４時間予約可能。</div>
                   </div>
                 </div>
-                <div data-layer="Container" data-node-id="319-600" className="Container w-[768px] h-[696.84px] left-[576px] top-[9820.00px] absolute overflow-hidden">
+                <div data-layer="Container" data-node-id="319-600" className="Container w-[768px] h-[696.84px] left-[576px] top-[9820.00px] absolute overflow-hidden z-50">
                   <div data-layer="Background" data-node-id="319-601" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
                   <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-602" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/319-602.webp" />
                   <div data-layer="Background" data-node-id="319-603" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
