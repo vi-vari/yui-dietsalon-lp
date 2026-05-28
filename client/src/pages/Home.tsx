@@ -52,7 +52,7 @@ export default function Home() {
             <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF02-2.webp" data-node-id="316-12" className="FigureE3818aE682A9E381Bf022Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[3595.80px] absolute" src="/assets/316-12.webp" />
             <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF03.webp" data-node-id="316-13" className="FigureE3818aE682A9E381Bf03Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[4361.88px] absolute" src="/assets/316-13.webp" />
             <img data-layer="Figure → %E3%81%8A%E6%82%A9%E3%81%BF04.webp" data-node-id="316-14" className="FigureE3818aE682A9E381Bf04Webp w-[767.98px] h-[766.08px] left-[576.00px] top-[5127.95px] absolute" src="/assets/316-14.webp" />
-            <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="316-15" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[9000.55px] absolute" src="/assets/316-15.webp" />
+            <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="316-15" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[9000.55px] absolute" src="/assets/769x627CTA1.jpg" />
             <div data-layer="Border" data-node-id="316-19" className="Border w-[768px] h-[1105.69px] left-[3164.00px] top-[-2360px] absolute outline outline-1 outline-offset-[-1px] outline-[#ff2678]">
                 <img data-layer="Figure → %E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-575-1024x654.webp" data-node-id="316-20" className="FigureE382B0E383AbE383BcE383975751024x654Webp w-[718px] h-[458.56px] left-[25px] top-[25px] absolute" src="/assets/316-20.webp" />
                 <div data-layer="通常10,000円" data-node-id="316-21" className="10000 left-[268.39px] top-[522.56px] absolute text-center justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">通常10,000円　</div>
@@ -155,7 +155,7 @@ export default function Home() {
             <img data-layer="Figure → lp_009-%E2%80%93-2.jpg" data-node-id="316-87" className="FigureLp009E280932Jpg w-[800px] h-[800px] left-[560.00px] top-[6504.55px] absolute" src="/assets/316-87.webp" />
             <img data-layer="Figure → lp_004-%E2%80%93-2.jpg" data-node-id="316-88" className="FigureLp004E280932Jpg w-[800px] h-[800px] left-[560.00px] top-[7320.55px] absolute" src="/assets/316-88.webp" />
             <img data-layer="Figure → lp_002-%E2%80%93-3.jpg" data-node-id="316-89" className="FigureLp002E280933Jpg w-[800px] h-[800px] left-[560.00px] top-[8136.55px] absolute" src="/assets/316-89.webp" />
-            <div data-layer="Background" data-node-id="316-90" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[9659.55px] absolute bg-[#ff86b4]">
+            <div data-layer="Background" data-node-id="316-90" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[9700.00px] absolute bg-[#ff86b4]">
                 <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="316-91" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">予約方法はこちら</div>
                 <div data-layer="List" data-node-id="316-92" className="List w-[768px] h-[65px] left-[576px] top-[102.39px] absolute">
                   <div data-layer="Item" data-node-id="316-93" className="Item w-[738px] h-[30px] left-[30px] top-0 absolute">
@@ -167,7 +167,7 @@ export default function Home() {
                     <div data-layer="LINEは２４時間予約可能。" data-node-id="316-98" className="Line left-0 top-[4px] absolute justify-center text-white text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">LINEは２４時間予約可能。</div>
                   </div>
                 </div>
-                <div data-layer="Container" data-node-id="316-99" className="Container w-[768px] h-[696.84px] left-[576px] top-[207.39px] absolute overflow-hidden">
+                <div data-layer="Container" data-node-id="316-99" className="Container w-[768px] h-[696.84px] left-[576px] top-[9820.00px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="316-100" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
                   <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-101" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/316-101.webp" />
                   <div data-layer="Background" data-node-id="316-102" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
@@ -363,7 +363,7 @@ export default function Home() {
             <div data-layer="Background" data-node-id="320-1316" className="Background w-[1920px] h-[739.05px] left-[0.00px] top-[13007.41px] absolute bg-[#f7f7f7]">
                 <div data-layer="Strong" data-node-id="320-1317" className="Strong w-[762.69px] h-[85.31px] left-[576px] top-[37px] absolute">
                   <div data-layer="実はこのような 「 決してムキムキって訳ではないけど、無駄な脂肪がない健康的なスリムな体 型 」 というのは、必ずしも" data-node-id="320-1318" className="left-0 top-0 absolute justify-center text-[#333333] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN']">実はこのような 「 決してムキムキって訳ではないけど、無駄な脂肪がない健康的なスリムな体<br/>型 」 というのは、必ずしも</div>
-                  <div data-layer="Mark" data-node-id="320-1319" className="Mark w-[762.69px] h-[55.66px] left-0 top-[29.65px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
+                  <div data-layer="Mark" data-node-id="320-1319" className="Mark w-[640px] h-[45px] left-[65px] top-[35px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                     <div data-layer="キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！" data-node-id="320-1320" className="left-[226.20px] top-[2px] absolute justify-center text-[#ff2678] text-lg font-light font-['Hiragino_Kaku_Gothic_ProN'] whitespace-nowrap">キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！</div>
                     
                   </div>
@@ -409,7 +409,7 @@ export default function Home() {
                 <div data-layer="Background" data-node-id="320-1351" className="Background w-[1920px] h-[739.05px] left-0 top-[-15.41px] absolute bg-[#f7f7f7]">
                   <div data-layer="Strong" data-node-id="320-1352" className="Strong w-[762.69px] h-[85.31px] left-[576px] top-[37px] absolute">
                     <div data-layer="実はこのような 「 決してムキムキって訳ではないけど、無駄な脂肪がない健康的なスリムな体 型 」 というのは、必ずしも" data-node-id="320-1353" className="left-0 top-0 absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">実はこのような 「 決してムキムキって訳ではないけど、無駄な脂肪がない健康的なスリムな体<br/>型 」 というのは、必ずしも</div>
-                    <div data-layer="Mark" data-node-id="320-1354" className="Mark w-[521px] h-14 left-[224px] top-[-4.41px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
+                    <div data-layer="Mark" data-node-id="320-1354" className="Mark w-[640px] h-[45px] left-[65px] top-[35px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
                       <div data-layer="キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！" data-node-id="320-1355" className="left-0 top-[36px] absolute justify-center text-[#ff2678] text-lg font-bold font-['Noto_Sans_JP'] whitespace-nowrap">キツい筋トレやハードな運動の積み重ねが必要な訳じゃないからなのです！</div>
                     </div>
                     <div data-layer="Mark" data-node-id="320-1356" className="Mark w-[90px] h-14 left-0 top-[31.59px] absolute bg-gradient-to-b from-[#fcf69f]/0 to-[#fcf69f]">
@@ -950,16 +950,21 @@ export default function Home() {
             <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="320-1773" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[21014.14px] absolute" src="/assets/320-1773.webp" />
             <div data-layer="Background" data-node-id="320-1774" className="Background w-[573.52px] h-[61.42px] left-[675.00px] top-[20415px] absolute bg-[#ff2678] rounded-sm">
                 <div data-layer="Strong → そんなあなたに1つ特別なご提案があります" data-node-id="320-1775" className="Strong1 left-[32px] top-[15.80px] absolute text-center justify-center text-white text-[25.60px] font-bold font-['Noto_Sans_JP']">そんなあなたに1つ特別なご提案があります</div>
-                <img data-layer="Polygon 1" data-node-id="320-1776" className="Polygon1 w-[24.19px] h-[24.19px] left-[274.77px] top-[54.69px] absolute origin-top-left rotate-[179.54deg]" src="/assets/320-1776.svg" />
+                <svg data-layer="Polygon 1" data-node-id="320-1776" className="Polygon1 w-[24px] h-[15px] left-[274.76px] top-[61.42px] absolute overflow-hidden" viewBox="0 0 24 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M12 15L0 0H24L12 15Z" fill="#ff2678"/>
+                </svg>
               </div>
             <div data-layer="Group 3" data-node-id="320-1777" className="Group3 w-[753.92px] h-[453.08px] left-[576.00px] top-[20518px] absolute">
                 <div data-layer="Strong → もしあなたが、本気でダイエットしたい！" data-node-id="320-1778" className="Strong left-0 top-[22.08px] absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">もしあなたが、本気でダイエットしたい！<br/>と思われているなら当院で、</div>
                 <div data-layer="Strong" data-node-id="320-1779" className="Strong w-[407px] h-[45px] left-0 top-[70.08px] absolute">
                   <div data-layer="Mark" data-node-id="320-1780" className="Mark w-[283px] h-[19px] left-0 top-[21px] absolute bg-[#b7e3ff]" />
-                  <div data-layer="人生最後のダイエットをしませんか？" data-node-id="320-1781" className="left-0 top-[9px] absolute justify-center text-[#3d79d5] text-[28.20px] font-bold font-['Noto_Sans_JP']">人生最後のダイエットをしませんか？</div>
+                  <div data-layer="人生最後のダイエットをしませんか？" data-node-id="320-1781" className="left-0 top-[9px] absolute flex items-baseline gap-1 font-bold font-['Noto_Sans_JP']">
+                    <span className="text-[#3d79d5] text-[28.20px]">人生最後のダイエット</span>
+                    <span className="text-[#333333] text-lg font-bold">をしませんか？</span>
+                  </div>
                 </div>
                 <img data-layer="Figure → AdobeStock_91479302-1-scaled-2-768x512-1.jpeg" data-node-id="320-1782" className="FigureAdobestock914793021Scaled2768x5121Jpeg w-[312.47px] h-[208.31px] left-[426.77px] top-0 absolute rounded-full" src="/assets/320-1782.webp" />
-                <div data-layer="Strong" data-node-id="320-1783" className="Strong w-[360.48px] h-[106.42px] left-[3px] top-[137.08px] absolute">
+                <div data-layer="Strong" data-node-id="320-1783" className="Strong w-[360.48px] h-[106.42px] left-[3px] top-[170px] absolute">
                   <div data-layer="「どうせ私には無理でしょ…そんな都合のいい話はない…」と思うなら、このページを閉 じていただいても構いません。あなたの大切なお時間を無駄にさせてしまいますから。" data-node-id="320-1784" className="left-[-3px] top-0 absolute justify-center text-[#333333] text-lg font-bold font-['Noto_Sans_JP']">「どうせ私には無理でしょ…そんな都合のいい話はない…」と思うなら、このページを閉<br/>じていただいても構いません。あなたの大切なお時間を無駄にさせてしまいますから。</div>
                 </div>
                 <div data-layer="Strong → Mark" data-node-id="320-1785" className="StrongMark w-[338px] h-[25px] left-[1px] top-[428.08px] absolute bg-[#fcf69f]">
@@ -990,7 +995,7 @@ export default function Home() {
                     <div data-layer="LINEは２４時間予約可能。" data-node-id="319-599" className="Line left-0 top-[4px] absolute justify-center text-white text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">LINEは２４時間予約可能。</div>
                   </div>
                 </div>
-                <div data-layer="Container" data-node-id="319-600" className="Container w-[768px] h-[696.84px] left-[576px] top-[207.39px] absolute overflow-hidden">
+                <div data-layer="Container" data-node-id="319-600" className="Container w-[768px] h-[696.84px] left-[576px] top-[9820.00px] absolute overflow-hidden">
                   <div data-layer="Background" data-node-id="319-601" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
                   <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-602" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/319-602.webp" />
                   <div data-layer="Background" data-node-id="319-603" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
