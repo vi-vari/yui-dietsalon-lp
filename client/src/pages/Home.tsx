@@ -104,14 +104,14 @@ export default function Home() {
                 <div data-layer="Background" data-node-id="316-53" className="Background w-[88.38px] h-[32.28px] left-[25px] top-[598.63px] absolute bg-[#ff2678]">
                   <div data-layer="Strong → 初回内容" data-node-id="316-54" className="Strong left-[10.19px] top-[6.39px] absolute text-center justify-center text-white text-[17px] font-light font-['Hiragino_Kaku_Gothic_ProN']">初回内容</div>
                 </div>
-                <div data-layer="Link" data-node-id="316-55" className="Link w-[574.39px] h-14 left-[96.80px] top-[821.50px] absolute bg-[#62d847] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(74,162,53,1.00)]">
-                  <div data-layer="今すぐLINEで予約する" data-node-id="316-56" className="Line left-[186.54px] top-[16px] absolute text-center justify-center text-white text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">今すぐLINEで予約する</div>
+                <a href="https://lin.ee/xXOxJqxk" target="_self" data-layer="Link" data-node-id="316-55" className="Link w-[574.39px] h-14 left-[96.80px] top-[821.50px] absolute bg-[#62d847] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(74,162,53,1.00)] hover:scale-[1.02] transition-transform duration-150 cursor-pointer flex items-center justify-center">
+                  <div data-layer="今すぐLINEで予約する" data-node-id="316-56" className="Line text-center text-white text-base font-bold font-['Noto_Sans_JP'] mr-2">今すぐLINEで予約する</div>
                   <img data-layer="SVG" data-node-id="316-57" className="Svg w-[19.36px] h-[19.36px] left-[372.87px] top-[18.31px] absolute overflow-hidden" src="/assets/316-57.svg" />
-                </div>
-                <div data-layer="Link" data-node-id="316-62" className="Link w-[574.39px] h-14 left-[96.80px] top-[893.50px] absolute bg-[#e52b79] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(172,32,91,1.00)]">
-                  <div data-layer="ホットペッパーで予約する" data-node-id="316-63" className="left-[172.01px] top-[16px] absolute text-center justify-center text-white text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパーで予約する</div>
+              </a>
+                <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" data-layer="Link" data-node-id="316-62" className="Link w-[574.39px] h-14 left-[96.80px] top-[893.50px] absolute bg-[#e52b79] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(172,32,91,1.00)] hover:scale-[1.02] transition-transform duration-150 cursor-pointer flex items-center justify-center">
+                  <div data-layer="ホットペッパーで予約する" data-node-id="316-63" className="Line text-center text-white text-base font-bold font-['Noto_Sans_JP'] mr-2">ホットペッパーで予約する</div>
                   <img data-layer="SVG" data-node-id="316-64" className="Svg w-[19.36px] h-[19.36px] left-[387.39px] top-[18.31px] absolute overflow-hidden" src="/assets/316-64.svg" />
-                </div>
+              </a>
               </div>
             <div data-layer="Background" data-node-id="316-69" className="Background w-[768px] h-[54.39px] left-[576.00px] top-[1501px] absolute bg-[#ff2678]">
                 <div data-layer="Strong → 初回限定キャンペーン" data-node-id="316-70" className="Strong left-[254.53px] top-[13px] absolute text-center justify-center text-white text-[25.60px] font-light font-['Hiragino_Kaku_Gothic_ProN']">初回限定キャンペーン</div>
@@ -169,10 +169,10 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="316-99" className="Container w-[768px] h-[696.84px] left-[576px] top-[9820.00px] absolute overflow-hidden z-50">
                   <div data-layer="Background" data-node-id="316-100" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-101" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/316-101.webp" />
+                  <a href="https://lin.ee/xXOxJqxk" target="_self" className="absolute left-[32px] top-[60px] w-[704px] h-[305.06px] hover:opacity-90 transition-opacity cursor-pointer z-50"><img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-101" className="w-full h-full" src="/assets/316-101.webp" /></a>
                   <div data-layer="Background" data-node-id="316-102" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                     <div data-layer="Strong" data-node-id="316-103" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
-                      <div data-layer="ホットペッパー予約はこちらから" data-node-id="316-104" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパー予約はこちらから</div>
+                      <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP'] hover:text-[#e52b79] transition-colors cursor-pointer whitespace-nowrap z-50">ホットペッパー予約はこちらから</a>
                       <div data-layer="Mask Group" data-node-id="316-105" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                         <div data-layer="Mask" data-node-id="316-106" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                           <div data-layer="image" data-node-id="316-107" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
@@ -195,12 +195,12 @@ export default function Home() {
                       <div data-layer="Background" data-node-id="316-117" className="Background w-[20.20px] h-7 left-0 top-0 absolute bg-black" />
                     </div>
                   </div>
-                  <div data-layer="Container" data-node-id="316-1170" className="Container w-[768px] h-[696.84px] left-0 top-[0.06px] absolute overflow-hidden" style={{height: '741px', paddingBottom: '45px', paddingLeft: '47px', paddingRight: '64px', paddingTop: '90px', width: '770px'}}>
-                    <div data-layer="Background" data-node-id="316-1171" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" style={{marginBottom: '10000px', marginLeft: '134px', marginRight: '177px', marginTop: '1000000000px'}} />
+                  <div data-layer="Container" data-node-id="316-1170" className="Container w-[768px] h-[696.84px] left-0 top-[0.06px] absolute overflow-hidden">
+                    <div data-layer="Background" data-node-id="316-1171" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
                     <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-1172" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/316-1172.webp" />
                     <div data-layer="Background" data-node-id="316-1173" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                       <div data-layer="Strong" data-node-id="316-1174" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
-                        <div data-layer="ホットペッパー予約はこちらから" data-node-id="316-1175" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">ホットペッパー予約はこちらから</div>
+                        <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP'] hover:text-[#e52b79] transition-colors cursor-pointer whitespace-nowrap z-50">ホットペッパー予約はこちらから</a>
                         <div data-layer="Mask Group" data-node-id="316-1176" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                           <div data-layer="Mask" data-node-id="316-1177" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                             <div data-layer="image" data-node-id="316-1178" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
@@ -296,14 +296,14 @@ export default function Home() {
                 <div data-layer="Background" data-node-id="320-1183" className="Background w-[88.38px] h-[32.28px] left-[25px] top-[598.63px] absolute bg-[#ff2678]">
                   <div data-layer="Strong → 初回内容" data-node-id="320-1184" className="Strong left-[10.19px] top-[6.39px] absolute text-center justify-center text-white text-[17px] font-light font-['Hiragino_Kaku_Gothic_ProN']">初回内容</div>
                 </div>
-                <div data-layer="Link" data-node-id="320-1185" className="Link w-[574.39px] h-14 left-[96.80px] top-[821.50px] absolute bg-[#62d847] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(74,162,53,1.00)]">
-                  <div data-layer="今すぐLINEで予約する" data-node-id="320-1186" className="Line left-[186.54px] top-[16px] absolute text-center justify-center text-white text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">今すぐLINEで予約する</div>
+                <a href="https://lin.ee/xXOxJqxk" target="_self" data-layer="Link" data-node-id="320-1185" className="Link w-[574.39px] h-14 left-[96.80px] top-[821.50px] absolute bg-[#62d847] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(74,162,53,1.00)] hover:scale-[1.02] transition-transform duration-150 cursor-pointer flex items-center justify-center">
+                  <div data-layer="今すぐLINEで予約する" data-node-id="320-1186" className="Line text-center text-white text-base font-bold font-['Noto_Sans_JP'] mr-2">今すぐLINEで予約する</div>
                   <img data-layer="SVG" data-node-id="320-1187" className="Svg w-[19.36px] h-[19.36px] left-[372.87px] top-[18.31px] absolute overflow-hidden" src="/assets/320-1187.svg" />
-                </div>
-                <div data-layer="Link" data-node-id="320-1192" className="Link w-[574.39px] h-14 left-[96.80px] top-[893.50px] absolute bg-[#e52b79] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(172,32,91,1.00)]">
-                  <div data-layer="ホットペッパーで予約する" data-node-id="320-1193" className="left-[172.01px] top-[16px] absolute text-center justify-center text-white text-base font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパーで予約する</div>
+              </a>
+                <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" data-layer="Link" data-node-id="320-1192" className="Link w-[574.39px] h-14 left-[96.80px] top-[893.50px] absolute bg-[#e52b79] rounded-[80px] shadow-[0px_4px_0px_0px_rgba(172,32,91,1.00)] hover:scale-[1.02] transition-transform duration-150 cursor-pointer flex items-center justify-center">
+                  <div data-layer="ホットペッパーで予約する" data-node-id="320-1193" className="Line text-center text-white text-base font-bold font-['Noto_Sans_JP'] mr-2">ホットペッパーで予約する</div>
                   <img data-layer="SVG" data-node-id="320-1194" className="Svg w-[19.36px] h-[19.36px] left-[387.39px] top-[18.31px] absolute overflow-hidden" src="/assets/320-1194.svg" />
-                </div>
+              </a>
               </div>
             <div data-layer="Background" data-node-id="320-1280" className="Background w-[1920px] h-[108.80px] left-[0.00px] top-[10595.78px] absolute bg-[#f7f6eb]">
                 <div data-layer="Heading 3 → なぜ初回キャンペーンをしているのか？" data-node-id="320-1281" className="Heading3 left-[664.94px] top-[36px] absolute text-center justify-center text-[#ff2678] text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">なぜ初回キャンペーンをしているのか？</div>
@@ -997,10 +997,10 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="319-600" className="Container w-[768px] h-[696.84px] left-[576px] top-[20622.00px] absolute overflow-hidden z-50">
                   <div data-layer="Background" data-node-id="319-601" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-602" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/319-602.webp" />
+                  <a href="https://lin.ee/xXOxJqxk" target="_self" className="absolute left-[32px] top-[60px] w-[704px] h-[305.06px] hover:opacity-90 transition-opacity cursor-pointer z-50"><img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-602" className="w-full h-full" src="/assets/319-602.webp" /></a>
                   <div data-layer="Background" data-node-id="319-603" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                     <div data-layer="Strong" data-node-id="319-604" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
-                      <div data-layer="ホットペッパー予約はこちらから" data-node-id="319-605" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパー予約はこちらから</div>
+                      <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP'] hover:text-[#e52b79] transition-colors cursor-pointer whitespace-nowrap z-50">ホットペッパー予約はこちらから</a>
                       <div data-layer="Mask Group" data-node-id="319-606" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                         <div data-layer="Mask" data-node-id="319-607" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                           <div data-layer="image" data-node-id="319-608" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
@@ -1038,10 +1038,10 @@ export default function Home() {
                   </div>
                   <div data-layer="Container" data-node-id="319-628" className="Container w-[768px] h-[696.84px] left-[591px] top-[201px] absolute overflow-hidden z-50">
                     <div data-layer="Background" data-node-id="319-629" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                    <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-630" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/319-630.webp" />
+                    <a href="https://lin.ee/xXOxJqxk" target="_self" className="absolute left-[32px] top-[60px] w-[704px] h-[305.06px] hover:opacity-90 transition-opacity cursor-pointer z-50"><img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="319-630" className="w-full h-full" src="/assets/319-630.webp" /></a>
                     <div data-layer="Background" data-node-id="319-631" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                       <div data-layer="Strong" data-node-id="319-632" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
-                        <div data-layer="ホットペッパー予約はこちらから" data-node-id="319-633" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">ホットペッパー予約はこちらから</div>
+                        <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP'] hover:text-[#e52b79] transition-colors cursor-pointer whitespace-nowrap z-50">ホットペッパー予約はこちらから</a>
                         <div data-layer="Mask Group" data-node-id="319-634" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                           <div data-layer="Mask" data-node-id="319-635" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                             <div data-layer="image" data-node-id="319-636" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
@@ -1285,10 +1285,10 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="325-2021" className="Container w-[768px] h-[696.84px] left-[576px] top-[30423.98px] absolute overflow-hidden z-50">
                   <div data-layer="Background" data-node-id="325-2022" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                  <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="325-2023" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/325-2023.webp" />
+                  <a href="https://lin.ee/xXOxJqxk" target="_self" className="absolute left-[32px] top-[60px] w-[704px] h-[305.06px] hover:opacity-90 transition-opacity cursor-pointer z-50"><img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="325-2023" className="w-full h-full" src="/assets/325-2023.webp" /></a>
                   <div data-layer="Background" data-node-id="325-2024" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                     <div data-layer="Strong" data-node-id="325-2025" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
-                      <div data-layer="ホットペッパー予約はこちらから" data-node-id="325-2026" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-light font-['Hiragino_Kaku_Gothic_ProN']">ホットペッパー予約はこちらから</div>
+                      <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP'] hover:text-[#e52b79] transition-colors cursor-pointer whitespace-nowrap z-50">ホットペッパー予約はこちらから</a>
                       <div data-layer="Mask Group" data-node-id="325-2027" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                         <div data-layer="Mask" data-node-id="325-2028" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                           <div data-layer="image" data-node-id="325-2029" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">
@@ -1577,10 +1577,10 @@ export default function Home() {
               </div>
               <div data-layer="Container" data-node-id="325-2247" className="Container w-[768px] h-[696.84px] left-[576px] top-[38278.00px] absolute overflow-hidden z-50">
                 <div data-layer="Background" data-node-id="325-2248" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="325-2249" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[51px] absolute" src="/assets/325-2249.webp" />
+                <a href="https://lin.ee/xXOxJqxk" target="_self" className="absolute left-[32px] top-[51px] w-[704px] h-[305.06px] hover:opacity-90 transition-opacity cursor-pointer z-50"><img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="325-2249" className="w-full h-full" src="/assets/325-2249.webp" /></a>
                 <div data-layer="Background" data-node-id="325-2250" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                   <div data-layer="Strong" data-node-id="325-2251" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
-                    <div data-layer="ホットペッパー予約はこちらから" data-node-id="325-2252" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP']">ホットペッパー予約はこちらから</div>
+                    <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP'] hover:text-[#e52b79] transition-colors cursor-pointer whitespace-nowrap z-50">ホットペッパー予約はこちらから</a>
                     <div data-layer="Mask Group" data-node-id="325-2253" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                       <div data-layer="Mask" data-node-id="325-2254" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
                         <div data-layer="image" data-node-id="325-2255" className="Image w-5 h-5 left-0 top-[8px] absolute overflow-hidden">

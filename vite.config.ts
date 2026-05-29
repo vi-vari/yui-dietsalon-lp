@@ -205,10 +205,11 @@ function vitePluginStorageProxy(): Plugin {
 
 const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginManusRuntime(), vitePluginManusDebugCollector(), vitePluginStorageProxy()];
 
-export default defineConfig({
-  base: "/yui-dietsalon-lp/",
+export default defineConfig(({ command }) => {
+  return {
+  base: command === "build" ? "./" : "/",
   plugins,
-  resolve: {
+    resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),
       "@shared": path.resolve(import.meta.dirname, "shared"),
@@ -239,4 +240,5 @@ export default defineConfig({
       deny: ["**/.*"],
     },
   },
+  };
 });
