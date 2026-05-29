@@ -8,8 +8,9 @@ import Home from "./pages/Home";
 
 
 function AppRouter() {
-  // Handle GitHub Pages subdirectory base path dynamically
-  const base = window.location.pathname.startsWith("/yui-dietsalon-lp") ? "/yui-dietsalon-lp" : "";
+  // Check if we are on GitHub Pages production
+  const isGithubPages = window.location.hostname.includes("github.io") || window.location.pathname.includes("/yui-dietsalon-lp");
+  const base = isGithubPages ? "/yui-dietsalon-lp" : "";
   return (
     <Router base={base}>
       <Switch>

@@ -983,7 +983,7 @@ export default function Home() {
           <img data-layer="Background (1) 2" data-node-id="319-1098" className="Background12 w-[1920px] h-[1508px] left-0 top-[28122px] absolute" src="/assets/319-1098.webp" />
           <div data-layer="Main" data-node-id="319-5" className="Main w-[1920px] h-[39091px] left-0 top-0 absolute overflow-hidden">
             <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="319-16" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[29557.98px] absolute" src="/assets/319-16.webp" />
-            <div data-layer="Background" data-node-id="319-591" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[21705.14px] absolute bg-[#ff86b4]">
+            <div data-layer="Background" data-node-id="319-591" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[21705.14px] absolute bg-[#ff86b4]" style={{display: 'none'}}>
                 <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="319-592" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">予約方法はこちら</div>
                 <div data-layer="List" data-node-id="319-593" className="List w-[768px] h-[65px] left-[576px] top-[102.39px] absolute">
                   <div data-layer="Item" data-node-id="319-594" className="Item w-[738px] h-[30px] left-[30px] top-0 absolute">
@@ -1024,7 +1024,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div data-layer="Background" data-node-id="319-619" className="Background w-[1920px] h-[936.23px] left-0 top-[-0.14px] absolute bg-[#ff86b4] z-30">
+                <div data-layer="Background" data-node-id="319-619" className="Background w-[1920px] h-[936.23px] left-0 top-[-0.14px] absolute bg-[#ff86b4] z-30" style={{display: 'flex', marginTop: '230px', paddingBottom: '152px', paddingLeft: '52px', paddingRight: '65px', paddingTop: '215px'}}>
                   <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="319-620" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-bold font-['Noto_Sans_JP']">予約方法はこちら</div>
                   <div data-layer="List" data-node-id="319-621" className="List w-[768px] h-[65px] left-[576px] top-[102.39px] absolute">
                     <div data-layer="Item" data-node-id="319-622" className="Item w-[738px] h-[30px] left-[30px] top-0 absolute">
@@ -1270,7 +1270,7 @@ export default function Home() {
               </div>
             <img data-layer="769×627 CTA 3" data-node-id="319-1083" className="627Cta3 w-[769px] h-[627px] left-[575.00px] top-[29558px] absolute" src="/assets/319-1083.webp" />
           </div>
-          <div data-layer="Main" data-node-id="325-1809" className="Main w-[1920px] h-[39091px] left-0 top-0 absolute overflow-hidden">
+          <div data-layer="Main" data-node-id="325-1809" className="Main w-[1920px] h-[39091px] left-0 top-0 absolute overflow-hidden" style={{display: 'none'}}>
             <div data-layer="Background" data-node-id="325-2012" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[30216.98px] absolute bg-[#ff86b4] z-30">
                 <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="325-2013" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">予約方法はこちら</div>
                 <div data-layer="List" data-node-id="325-2014" className="List w-[768px] h-[65px] left-[576px] top-[102.40px] absolute">
