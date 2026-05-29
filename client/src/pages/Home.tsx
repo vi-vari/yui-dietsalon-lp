@@ -195,8 +195,8 @@ export default function Home() {
                       <div data-layer="Background" data-node-id="316-117" className="Background w-[20.20px] h-7 left-0 top-0 absolute bg-black" />
                     </div>
                   </div>
-                  <div data-layer="Container" data-node-id="316-1170" className="Container w-[768px] h-[696.84px] left-0 top-[0.06px] absolute overflow-hidden">
-                    <div data-layer="Background" data-node-id="316-1171" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
+                  <div data-layer="Container" data-node-id="316-1170" className="Container w-[768px] h-[696.84px] left-0 top-[0.06px] absolute overflow-hidden" style={{height: '741px', paddingBottom: '45px', paddingLeft: '47px', paddingRight: '64px', paddingTop: '90px', width: '770px'}}>
+                    <div data-layer="Background" data-node-id="316-1171" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" style={{marginBottom: '10000px', marginLeft: '134px', marginRight: '177px', marginTop: '1000000000px'}} />
                     <img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-1172" className="FigureLinkLineE38390E3838aE383Bc1Webp w-[704px] h-[305.06px] left-[32px] top-[60px] absolute" src="/assets/316-1172.webp" />
                     <div data-layer="Background" data-node-id="316-1173" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
                       <div data-layer="Strong" data-node-id="316-1174" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
