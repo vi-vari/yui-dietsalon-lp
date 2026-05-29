@@ -10,7 +10,8 @@ function App() {
       <ThemeProvider defaultTheme="light">
         <TooltipProvider>
           <Toaster />
-          <Home />
+          <Home key={1780034216} />
+          {/* Cache bust: 1780034198 */}
         </TooltipProvider>
       </ThemeProvider>
     </ErrorBoundary>
