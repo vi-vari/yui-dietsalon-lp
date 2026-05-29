@@ -981,7 +981,7 @@ export default function Home() {
           <img data-layer="Background (3) 1" data-node-id="320-1798" className="Background31 w-[1920px] h-[596px] left-[1px] top-[19168px] absolute" src="/assets/320-1798.webp" />
           <img data-layer="Background (2) 2" data-node-id="319-1097" className="Background22 w-[1920px] h-[3433px] left-[6px] top-[22745px] absolute" src="/assets/319-1097.webp" />
           <img data-layer="Background (1) 2" data-node-id="319-1098" className="Background12 w-[1920px] h-[1508px] left-0 top-[28122px] absolute" src="/assets/319-1098.webp" />
-          <div data-layer="Main" data-node-id="319-5" className="Main w-[1920px] h-[39457px] left-0 top-0 absolute">
+          <div data-layer="Main" data-node-id="319-5" className="Main w-[1920px] h-[39091px] left-0 top-0 absolute overflow-hidden">
             <img data-layer="Figure → offer-banner-3-1024x836.webp" data-node-id="319-16" className="FigureOfferBanner31024x836Webp w-[768px] h-[627px] left-[576.00px] top-[29557.98px] absolute" src="/assets/319-16.webp" />
             <div data-layer="Background" data-node-id="319-591" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[21705.14px] absolute bg-[#ff86b4]">
                 <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="319-592" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">予約方法はこちら</div>
@@ -1270,7 +1270,7 @@ export default function Home() {
               </div>
             <img data-layer="769×627 CTA 3" data-node-id="319-1083" className="627Cta3 w-[769px] h-[627px] left-[575.00px] top-[29558px] absolute" src="/assets/319-1083.webp" />
           </div>
-          <div data-layer="Main" data-node-id="325-1809" className="Main w-[1920px] h-[39457px] left-0 top-0 absolute">
+          <div data-layer="Main" data-node-id="325-1809" className="Main w-[1920px] h-[39091px] left-0 top-0 absolute overflow-hidden">
             <div data-layer="Background" data-node-id="325-2012" className="Background w-[1920px] h-[936.23px] left-[0.00px] top-[30216.98px] absolute bg-[#ff86b4] z-30">
                 <div data-layer="Heading 3 → Strong → 予約方法 → 予約方法はこちら" data-node-id="325-2013" className="Heading3Strong left-[829.69px] top-[33px] absolute text-center justify-center text-white text-[32px] font-light font-['Hiragino_Kaku_Gothic_ProN']">予約方法はこちら</div>
                 <div data-layer="List" data-node-id="325-2014" className="List w-[768px] h-[65px] left-[576px] top-[102.40px] absolute">
@@ -1431,9 +1431,16 @@ export default function Home() {
                     </div>
                   </div>
                   <div data-layer="Heading 2 → Strong → 来院経路" data-node-id="325-2132" className="Heading2Strong left-[895.59px] top-[36px] absolute text-center justify-center text-[#333333] text-[32px] font-bold font-['Noto_Sans_JP']">来院経路</div>
-                  <div data-layer="Mask group" data-node-id="325-2133" className="MaskGroup w-[769px] h-[512px] left-[576px] top-[232.56px] absolute">
-                    <div data-layer="Rectangle 8" data-node-id="325-2134" className="Rectangle8 w-[769px] h-[512px] left-0 top-0 absolute bg-[#d9d9d9]" />
-                    <img data-layer="スクリーンショット 2026-05-18 15.07.26 1" data-node-id="325-2135" className="202605181507261 w-[769px] h-[587px] left-0 top-[-58.50px] absolute" src="/assets/325-2135.webp" />
+                  <div data-layer="Google Map" data-node-id="325-2133" className="MaskGroup w-[769px] h-[512px] left-[576px] top-[232.56px] absolute rounded-md overflow-hidden border border-[#c7c7c7]/60 shadow-md">
+                    <iframe 
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3253.2843734024345!2d139.5372332!3d35.4093815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60185966779b76e1%3A0xc3b86064789505c!2z44CSMjQ1LTAwNTMg56We5aWI5bed55yM5qiq5rWc5biC5oi45aGa5Yy65LiK5aSi6YOo55S677yS777V777default!5e0!3m2!1sja!2sjp!4v1716912000000!5m2!1sja!2sjp" 
+                      width="100%" 
+                      height="100%" 
+                      style={{ border: 0 }} 
+                      allowFullScreen={true} 
+                      loading="lazy" 
+                      referrerPolicy="no-referrer-when-downgrade">
+                    </iframe>
                   </div>
                 </div>
               </div>
