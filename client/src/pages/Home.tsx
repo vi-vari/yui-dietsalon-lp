@@ -169,9 +169,9 @@ export default function Home() {
                 </div>
                 <div data-layer="Container" data-node-id="316-99" className="Container w-[768px] h-[696.84px] left-[576px] top-[9820.00px] absolute overflow-hidden z-50">
                   <div data-layer="Background" data-node-id="316-100" className="Background w-[768px] h-[696.84px] left-0 top-0 absolute bg-white" />
-                  <a href="https://lin.ee/xXOxJqxk" target="_self" className="absolute left-[32px] top-[60px] w-[704px] h-[305.06px] hover:opacity-90 transition-opacity cursor-pointer z-50"><img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-101" className="w-full h-full" src="/assets/316-101.webp" /></a>
-                  <div data-layer="Background" data-node-id="316-102" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]">
-                    <div data-layer="Strong" data-node-id="316-103" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute">
+                  <a href="https://lin.ee/xXOxJqxk" target="_self" className="absolute left-[32px] top-[60px] w-[704px] h-[305.06px] hover:opacity-90 transition-opacity cursor-pointer z-50" style={{paddingTop: "312px"}}><img data-layer="Figure → Link → LINE%E3%83%90%E3%83%8A%E3%83%BC-1.webp" data-node-id="316-101" className="w-full h-full" src="/assets/316-101.webp" style={{paddingTop: "312px"}} /></a>
+                  <div data-layer="Background" data-node-id="316-102" className="Background w-[333.63px] h-[21px] left-[217.19px] top-[390.06px] absolute bg-gradient-to-b from-[#b7e3ff]/0 to-[#b7e3ff]" style={{backgroundColor: "#e0e0e0", borderColor: "#f7f7f7", marginTop: "446px"}}>
+                    <div data-layer="Strong" data-node-id="316-103" className="Strong w-[329.63px] h-[22px] left-[2px] top-[-2px] absolute" style={{backgroundColor: "#f7f7f9", marginBottom: "-22px", marginTop: "-42px"}}>
                       <a href="http://b.hpr.jp/kr/hp/H000813406" target="_self" className="left-0 top-0 absolute text-center justify-center text-black text-xl font-bold font-['Noto_Sans_JP'] hover:text-[#e52b79] transition-colors cursor-pointer whitespace-nowrap z-50">ホットペッパー予約はこちらから</a>
                       <div data-layer="Mask Group" data-node-id="316-105" className="MaskGroup w-5 h-9 left-[307.62px] top-[-7px] absolute">
                         <div data-layer="Mask" data-node-id="316-106" className="Mask w-5 h-9 left-0 top-0 absolute overflow-hidden">
