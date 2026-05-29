@@ -8,9 +8,8 @@ import Home from "./pages/Home";
 
 
 function AppRouter() {
-  // Check if we are on GitHub Pages production
-  const isGithubPages = window.location.hostname.includes("github.io") || window.location.pathname.includes("/yui-dietsalon-lp");
-  const base = isGithubPages ? "/yui-dietsalon-lp" : "";
+  // Use Vite's standard env check: if in development, base is "", if in production (GitHub Pages), base is "/yui-dietsalon-lp"
+  const base = import.meta.env.DEV ? "" : "/yui-dietsalon-lp";
   return (
     <Router base={base}>
       <Switch>
